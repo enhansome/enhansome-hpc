@@ -1,0 +1,750 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cobbler",
+          "description": "Cobbler is a Linux installation server that allows for rapid setup of network installation environments (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T11:33:22Z",
+            "owner": "cobbler",
+            "repo": "cobbler",
+            "stars": 2768
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Warewulf",
+          "description": "Warewulf is a stateless and diskless container operating system provisioning system for large clusters of bare metal and/or virtual systems (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T00:43:54Z",
+            "owner": "warewulf",
+            "repo": "warewulf",
+            "stars": 660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XCat",
+          "description": "xCAT is a toolkit for deployment and administration of clusters of all sizes (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-08-11T15:49:44Z",
+            "owner": "xcat2",
+            "repo": "xcat-core",
+            "stars": 396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlueBanquise",
+          "description": "BlueBanquise is an open source cluster deployment and management stack built on Python and Ansible (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jinja",
+            "last_commit": "2026-08-11T02:45:26Z",
+            "owner": "bluebanquise",
+            "repo": "bluebanquise",
+            "stars": 163
+          }
+        }
+      ],
+      "title": "Provisioning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Slurm",
+          "description": "A free and open source job scheduler (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T21:11:10Z",
+            "owner": "SchedMD",
+            "repo": "slurm",
+            "stars": 4251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kube Batch",
+          "description": "A batch scheduler of kubernetes for high performance workload, e.g. AI/ML, BigData, HPC .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-05-22T13:50:02Z",
+            "owner": "kubernetes-retired",
+            "repo": "kube-batch",
+            "stars": 1090
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenPBS",
+          "description": "OpenPBS® software optimizes job scheduling and workload management in high-performance computing (HPC) environments (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-10T16:56:22Z",
+            "owner": "openpbs",
+            "repo": "openpbs",
+            "stars": 801
+          }
+        }
+      ],
+      "title": "Workload Managers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cromwell",
+          "description": "Scientific workflow engine designed for simplicity & scalability (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-04T14:32:07Z",
+            "owner": "broadinstitute",
+            "repo": "cromwell",
+            "stars": 1080
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pegasus",
+          "description": "A configurable system for mapping and executing scientific workflows over a wide range of computational infrastructure (Source Code).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T03:11:16Z",
+            "owner": "pegasus-isi",
+            "repo": "pegasus",
+            "stars": 239
+          }
+        }
+      ],
+      "title": "Pipelines"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Spack",
+          "description": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T11:03:32Z",
+            "owner": "spack",
+            "repo": "spack",
+            "stars": 5107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EasyBuild",
+          "description": "EasyBuild - building software with ease (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-09T19:38:38Z",
+            "owner": "easybuilders",
+            "repo": "easybuild",
+            "stars": 513
+          }
+        }
+      ],
+      "title": "Applications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenMPI",
+          "description": "OpenMPI is an open source implementation of the MPI-3.1 standard (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T14:47:09Z",
+            "owner": "open-mpi",
+            "repo": "ompi",
+            "stars": 2632
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MPICH",
+          "description": "MPICH is a high-performance and widely portable implementation of the MPI-3.1 standard (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T22:54:45Z",
+            "owner": "pmodels",
+            "repo": "mpich",
+            "stars": 684
+          }
+        }
+      ],
+      "title": "MPI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HPCC Systems",
+          "description": "HPCC Systems (High Performance Computing Cluster) is an open source, massive parallel-processing computing platform for big data processing and analytics (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T10:15:36Z",
+            "owner": "hpcc-systems",
+            "repo": "HPCC-Platform",
+            "stars": 612
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elbencho",
+          "description": "A distributed storage benchmark for files, objects & blocks with support for GPUs .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-24T15:39:42Z",
+            "owner": "breuner",
+            "repo": "elbencho",
+            "stars": 285
+          }
+        }
+      ],
+      "title": "Benchmarking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Reframe",
+          "description": "A powerful Python framework for writing and running portable regression tests and benchmarks for HPC systems. (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T15:40:44Z",
+            "owner": "reframe-hpc",
+            "repo": "reframe",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coldfront",
+          "description": "ColdFront is an open source resource allocation system designed to provide a central portal for administration, reporting, and measuring scientific impact of HPC resources (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T20:45:49Z",
+            "owner": "coldfront",
+            "repo": "coldfront",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open XDMod",
+          "description": "Open XDMoD is an open source tool to facilitate the management of high performance computing resources (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-10T14:18:04Z",
+            "owner": "ubccr",
+            "repo": "xdmod",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoSlmailer",
+          "description": "Goslmailer is a drop-in notification delivery solution for slurm that can do slack, mattermost, teams, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-10-01T11:47:40Z",
+            "owner": "CLIP-HPC",
+            "repo": "goslmailer",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pavilion2",
+          "description": "Pavilion is a Python 3 (3.6+) based framework for running and analyzing tests targeting HPC systems (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:31:47Z",
+            "owner": "hpc",
+            "repo": "pavilion2",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OLCF Test Harness",
+          "description": "The OLCF Test Harness (OTH) helps automate the testing of applications, tools, and other system software (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-26T18:50:32Z",
+            "owner": "olcf",
+            "repo": "olcf-test-harness",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenOnDemand",
+          "description": "Open OnDemand helps computational researchers and students efficiently utilize remote computing resources by making them easy to access from any device (Source Code) .",
+          "children": []
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pdsh",
+          "description": "pdsh runs terminal commands across multiple hosts in parallel (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-12T18:40:25Z",
+            "owner": "chaos",
+            "repo": "pdsh",
+            "stars": 563
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClusterShell",
+          "description": "Scalable cluster administration Python framework (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T12:16:00Z",
+            "owner": "clustershell",
+            "repo": "clustershell",
+            "stars": 473
+          }
+        }
+      ],
+      "title": "Parallel Shells"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Apptainer",
+          "description": "Apptainer is an open source container system (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T17:10:44Z",
+            "owner": "apptainer",
+            "repo": "apptainer",
+            "stars": 1934
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uDocker",
+          "description": "A basic user tool to execute simple docker containers in batch or interactive systems without root privileges (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-13T17:21:57Z",
+            "owner": "indigo-dc",
+            "repo": "udocker",
+            "stars": 1773
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HPC Container Maker",
+          "description": "HPC Container Maker is an open source tool to make it easier to generate container specification files. .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:04:03Z",
+            "owner": "NVIDIA",
+            "repo": "hpc-container-maker",
+            "stars": 514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shifter",
+          "description": "Shifter is Linux containers for HPC (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-15T17:02:44Z",
+            "owner": "NERSC",
+            "repo": "shifter",
+            "stars": 364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Charliecloud",
+          "description": "Charliecloud provides user-defined software stacks (UDSS) for high-performance computing (HPC) centers (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2025-05-14T20:15:41Z",
+            "owner": "hpc",
+            "repo": "charliecloud",
+            "stars": 318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scarus",
+          "description": "An OCI-compatible container engine for HPC .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-10-30T16:58:56Z",
+            "owner": "eth-cscs",
+            "repo": "sarus",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Singularity HPC",
+          "description": "Singularity Registry HPC (shpc) allows you to install containers as modules (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-13T00:37:11Z",
+            "owner": "singularityhub",
+            "repo": "singularity-hpc",
+            "stars": 134
+          }
+        }
+      ],
+      "title": "Containers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mamba",
+          "description": "Mamba is a reimplementation of the conda package manager in C++ (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T14:47:39Z",
+            "owner": "mamba-org",
+            "repo": "mamba",
+            "stars": 8080
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Environment Modules",
+          "description": "Environment Modules: provides dynamic modification of a user's environment (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Tcl",
+            "last_commit": "2026-08-12T18:39:51Z",
+            "owner": "envmodules",
+            "repo": "modules",
+            "stars": 861
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lmod",
+          "description": "Lmod: An Environment Module System based on Lua, Reads TCL Modules, Supports a Software Hierarchy (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-28T14:09:04Z",
+            "owner": "TACC",
+            "repo": "Lmod",
+            "stars": 606
+          }
+        }
+      ],
+      "title": "Environment Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Paraview",
+          "description": "ParaView is an open-source, multi-platform data analysis and visualization application based on Visualization Toolkit (VTK) (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T04:03:23Z",
+            "owner": "Kitware",
+            "repo": "ParaView",
+            "stars": 1681
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Visit",
+          "description": "VisIt - Visualization and Data Analysis for Mesh-based Scientific Data (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T03:56:56Z",
+            "owner": "visit-dav",
+            "repo": "visit",
+            "stars": 532
+          }
+        }
+      ],
+      "title": "Visualization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ceph",
+          "description": "Ceph is a distributed object, block, and file storage platform (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T08:20:11Z",
+            "owner": "ceph",
+            "repo": "ceph",
+            "stars": 16924
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MooseFS",
+          "description": "Moose File System is an Open-source, POSIX-compliant distributed file system developed by Core Technology (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-18T12:06:51Z",
+            "owner": "moosefs",
+            "repo": "moosefs",
+            "stars": 1996
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OrangeFS",
+          "description": "OrangeFS is a next generation parallel file system for Linux clusters (Source Code) .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-15T22:10:11Z",
+            "owner": "waltligon",
+            "repo": "orangefs",
+            "stars": 77
+          }
+        }
+      ],
+      "title": "Parallel Filesystems"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Monitoring"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DCGM Exporter",
+          "description": "NVIDIA GPU metrics exporter for Prometheus leveraging DCGM .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-25T02:39:06Z",
+            "owner": "NVIDIA",
+            "repo": "dcgm-exporter",
+            "stars": 1831
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Infiniband Exporter",
+          "description": "The InfiniBand exporter collects counters from InfiniBand switches and HCAs .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-07T20:36:44Z",
+            "owner": "treydock",
+            "repo": "infiniband_exporter",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPFS Exporter",
+          "description": "The GPFS exporter collects metrics from the GPFS filesystem .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-06T13:37:13Z",
+            "owner": "treydock",
+            "repo": "gpfs_exporter",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lustre Exporter",
+          "description": "Prometheus exporter for use with the Lustre parallel filesystem .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-05T08:34:41Z",
+            "owner": "GSI-HPC",
+            "repo": "lustre_exporter",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cgroup Exporter",
+          "description": "Produces metrics from cgroups .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-23T18:40:57Z",
+            "owner": "treydock",
+            "repo": "cgroup_exporter",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slurm Exporter",
+          "description": "Slurm Exporter for Prometheus using Rest API .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-27T13:13:09Z",
+            "owner": "ubccr",
+            "repo": "slurm-exporter",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cgroup Exporter",
+          "description": "A Prometheus exporter for cgroup-level metrics .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-07-02T15:05:49Z",
+            "owner": "phpHavok",
+            "repo": "cgroups_exporter",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slurm Exporter",
+          "description": "Prometheus exporter for performance metrics from Slurm .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-27T14:51:46Z",
+            "owner": "treydock",
+            "repo": "prometheus-slurm-exporter",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Prometheus Based"
+    },
+    {
+      "description": "Contributing guidelines can be found in contributing.md.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T11:35:45.810Z",
+    "original_repository": "dstdev/awesome-hpc",
+    "original_repository_sha": "e4a7e9c85a5fba70a86b31c191213caf5425f953",
+    "enhanced_repository": "enhansome/enhansome-hpc",
+    "enhanced_repository_description": null,
+    "title": "Awesome HPC with stars"
+  }
+}
