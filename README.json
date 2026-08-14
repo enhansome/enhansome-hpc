@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T11:33:22Z",
+            "last_commit": "2026-08-14T09:06:07Z",
             "owner": "cobbler",
             "repo": "cobbler",
             "stars": 2768
@@ -53,7 +53,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jinja",
-            "last_commit": "2026-08-11T02:45:26Z",
+            "last_commit": "2026-08-14T09:11:43Z",
             "owner": "bluebanquise",
             "repo": "bluebanquise",
             "stars": 163
@@ -73,10 +73,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T21:11:10Z",
+            "last_commit": "2026-08-14T00:28:30Z",
             "owner": "SchedMD",
             "repo": "slurm",
-            "stars": 4251
+            "stars": 4252
           }
         },
         {
@@ -135,7 +135,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T03:11:16Z",
+            "last_commit": "2026-08-14T04:02:47Z",
             "owner": "pegasus-isi",
             "repo": "pegasus",
             "stars": 239
@@ -155,10 +155,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T11:03:32Z",
+            "last_commit": "2026-08-14T10:34:44Z",
             "owner": "spack",
             "repo": "spack",
-            "stars": 5107
+            "stars": 5108
           }
         },
         {
@@ -189,7 +189,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T14:47:09Z",
+            "last_commit": "2026-08-14T01:04:32Z",
             "owner": "open-mpi",
             "repo": "ompi",
             "stars": 2632
@@ -206,7 +206,7 @@
             "last_commit": "2026-08-10T22:54:45Z",
             "owner": "pmodels",
             "repo": "mpich",
-            "stars": 684
+            "stars": 685
           }
         }
       ],
@@ -223,7 +223,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-11T10:15:36Z",
+            "last_commit": "2026-08-14T11:14:11Z",
             "owner": "hpcc-systems",
             "repo": "HPCC-Platform",
             "stars": 612
@@ -260,7 +260,7 @@
             "last_commit": "2026-07-29T15:40:44Z",
             "owner": "reframe-hpc",
             "repo": "reframe",
-            "stars": 280
+            "stars": 281
           }
         },
         {
@@ -313,7 +313,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T14:31:47Z",
+            "last_commit": "2026-08-13T15:30:53Z",
             "owner": "hpc",
             "repo": "pavilion2",
             "stars": 46
@@ -387,7 +387,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T17:10:44Z",
+            "last_commit": "2026-08-14T08:10:02Z",
             "owner": "apptainer",
             "repo": "apptainer",
             "stars": 1934
@@ -404,7 +404,7 @@
             "last_commit": "2025-08-13T17:21:57Z",
             "owner": "indigo-dc",
             "repo": "udocker",
-            "stars": 1773
+            "stars": 1775
           }
         },
         {
@@ -505,7 +505,7 @@
           "repo_info": {
             "archived": false,
             "language": "Tcl",
-            "last_commit": "2026-08-12T18:39:51Z",
+            "last_commit": "2026-08-14T08:35:59Z",
             "owner": "envmodules",
             "repo": "modules",
             "stars": 861
@@ -522,7 +522,7 @@
             "last_commit": "2026-07-28T14:09:04Z",
             "owner": "TACC",
             "repo": "Lmod",
-            "stars": 606
+            "stars": 607
           }
         }
       ],
@@ -539,7 +539,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T04:03:23Z",
+            "last_commit": "2026-08-14T07:23:25Z",
             "owner": "Kitware",
             "repo": "ParaView",
             "stars": 1681
@@ -553,7 +553,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T03:56:56Z",
+            "last_commit": "2026-08-14T04:57:39Z",
             "owner": "visit-dav",
             "repo": "visit",
             "stars": 532
@@ -573,10 +573,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T08:20:11Z",
+            "last_commit": "2026-08-14T10:27:44Z",
             "owner": "ceph",
             "repo": "ceph",
-            "stars": 16924
+            "stars": 16932
           }
         },
         {
@@ -629,7 +629,7 @@
             "last_commit": "2026-07-25T02:39:06Z",
             "owner": "NVIDIA",
             "repo": "dcgm-exporter",
-            "stars": 1831
+            "stars": 1832
           }
         },
         {
@@ -740,7 +740,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T11:35:45.810Z",
+    "last_updated": "2026-08-14T11:33:16.626Z",
     "original_repository": "dstdev/awesome-hpc",
     "original_repository_sha": "e4a7e9c85a5fba70a86b31c191213caf5425f953",
     "enhanced_repository": "enhansome/enhansome-hpc",
