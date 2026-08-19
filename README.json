@@ -78,7 +78,7 @@
             "archived": false,
             "id": 1924458,
             "language": "C",
-            "last_commit": "2026-08-18T17:00:24Z",
+            "last_commit": "2026-08-19T12:00:04Z",
             "owner": "SchedMD",
             "repo": "slurm",
             "stars": 4265
@@ -165,7 +165,7 @@
             "archived": false,
             "id": 15730865,
             "language": "Python",
-            "last_commit": "2026-08-19T06:27:51Z",
+            "last_commit": "2026-08-19T12:25:32Z",
             "owner": "spack",
             "repo": "spack",
             "stars": 5106
@@ -384,7 +384,7 @@
             "archived": false,
             "id": 3607283,
             "language": "Python",
-            "last_commit": "2026-08-19T02:27:43Z",
+            "last_commit": "2026-08-19T12:19:19Z",
             "owner": "clustershell",
             "repo": "clustershell",
             "stars": 474
@@ -408,7 +408,7 @@
             "last_commit": "2026-08-18T14:12:45Z",
             "owner": "apptainer",
             "repo": "apptainer",
-            "stars": 1940
+            "stars": 1939
           }
         },
         {
@@ -534,7 +534,7 @@
             "last_commit": "2026-08-16T15:33:50Z",
             "owner": "envmodules",
             "repo": "modules",
-            "stars": 863
+            "stars": 862
           }
         },
         {
@@ -549,7 +549,7 @@
             "last_commit": "2026-08-18T20:09:13Z",
             "owner": "TACC",
             "repo": "Lmod",
-            "stars": 607
+            "stars": 606
           }
         }
       ],
@@ -777,8 +777,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T11:12:04.431Z",
+    "last_updated": "2026-08-19T12:37:31.094Z",
     "original_repository": "dstdev/awesome-hpc",
+    "original_repository_id": 407182497,
     "original_repository_sha": "e4a7e9c85a5fba70a86b31c191213caf5425f953",
     "enhanced_repository": "enhansome/enhansome-hpc",
     "enhanced_repository_description": null,
