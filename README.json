@@ -42,7 +42,7 @@
             "archived": false,
             "id": 27747508,
             "language": "Perl",
-            "last_commit": "2026-08-19T19:35:50Z",
+            "last_commit": "2026-08-20T22:33:23Z",
             "owner": "xcat2",
             "repo": "xcat-core",
             "stars": 396
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 1924458,
             "language": "C",
-            "last_commit": "2026-08-19T22:49:02Z",
+            "last_commit": "2026-08-20T23:12:49Z",
             "owner": "SchedMD",
             "repo": "slurm",
-            "stars": 4265
+            "stars": 4271
           }
         },
         {
@@ -144,7 +144,7 @@
             "archived": false,
             "id": 8016431,
             "language": "Java",
-            "last_commit": "2026-08-20T06:05:57Z",
+            "last_commit": "2026-08-20T22:28:18Z",
             "owner": "pegasus-isi",
             "repo": "pegasus",
             "stars": 242
@@ -165,7 +165,7 @@
             "archived": false,
             "id": 15730865,
             "language": "Python",
-            "last_commit": "2026-08-20T07:43:25Z",
+            "last_commit": "2026-08-21T10:48:54Z",
             "owner": "spack",
             "repo": "spack",
             "stars": 5108
@@ -216,10 +216,10 @@
             "archived": false,
             "id": 70918679,
             "language": "C",
-            "last_commit": "2026-08-17T21:29:34Z",
+            "last_commit": "2026-08-20T20:49:27Z",
             "owner": "pmodels",
             "repo": "mpich",
-            "stars": 685
+            "stars": 684
           }
         }
       ],
@@ -333,7 +333,7 @@
             "archived": false,
             "id": 203612853,
             "language": "Python",
-            "last_commit": "2026-08-19T22:54:36Z",
+            "last_commit": "2026-08-20T21:41:54Z",
             "owner": "hpc",
             "repo": "pavilion2",
             "stars": 46
@@ -372,7 +372,7 @@
             "last_commit": "2026-01-12T18:40:25Z",
             "owner": "chaos",
             "repo": "pdsh",
-            "stars": 564
+            "stars": 565
           }
         },
         {
@@ -405,10 +405,10 @@
             "archived": false,
             "id": 433446895,
             "language": "Go",
-            "last_commit": "2026-08-19T20:58:38Z",
+            "last_commit": "2026-08-21T08:07:07Z",
             "owner": "apptainer",
             "repo": "apptainer",
-            "stars": 1940
+            "stars": 1944
           }
         },
         {
@@ -438,7 +438,7 @@
             "last_commit": "2026-08-17T21:24:08Z",
             "owner": "NVIDIA",
             "repo": "hpc-container-maker",
-            "stars": 514
+            "stars": 515
           }
         },
         {
@@ -516,10 +516,10 @@
             "archived": false,
             "id": 173947939,
             "language": "C++",
-            "last_commit": "2026-08-19T12:59:49Z",
+            "last_commit": "2026-08-20T11:24:49Z",
             "owner": "mamba-org",
             "repo": "mamba",
-            "stars": 8082
+            "stars": 8081
           }
         },
         {
@@ -531,7 +531,7 @@
             "archived": false,
             "id": 84907885,
             "language": "Tcl",
-            "last_commit": "2026-08-16T15:33:50Z",
+            "last_commit": "2026-08-21T05:52:47Z",
             "owner": "envmodules",
             "repo": "modules",
             "stars": 862
@@ -567,7 +567,7 @@
             "archived": false,
             "id": 639921,
             "language": "C++",
-            "last_commit": "2026-08-20T08:03:41Z",
+            "last_commit": "2026-08-21T04:03:48Z",
             "owner": "Kitware",
             "repo": "ParaView",
             "stars": 1685
@@ -582,7 +582,7 @@
             "archived": false,
             "id": 165565988,
             "language": "C",
-            "last_commit": "2026-08-20T11:11:18Z",
+            "last_commit": "2026-08-21T00:49:16Z",
             "owner": "visit-dav",
             "repo": "visit",
             "stars": 531
@@ -603,10 +603,10 @@
             "archived": false,
             "id": 2310495,
             "language": "C++",
-            "last_commit": "2026-08-20T09:09:25Z",
+            "last_commit": "2026-08-21T08:29:37Z",
             "owner": "ceph",
             "repo": "ceph",
-            "stars": 16948
+            "stars": 16953
           }
         },
         {
@@ -621,7 +621,7 @@
             "last_commit": "2026-05-18T12:06:51Z",
             "owner": "moosefs",
             "repo": "moosefs",
-            "stars": 1997
+            "stars": 1999
           }
         },
         {
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T11:13:29.295Z",
+    "last_updated": "2026-08-21T11:13:04.603Z",
     "original_repository": "dstdev/awesome-hpc",
     "original_repository_id": 407182497,
     "original_repository_sha": "e4a7e9c85a5fba70a86b31c191213caf5425f953",
