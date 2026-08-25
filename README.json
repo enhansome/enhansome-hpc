@@ -12,7 +12,7 @@
             "archived": false,
             "id": 2734482,
             "language": "Python",
-            "last_commit": "2026-08-24T13:25:22Z",
+            "last_commit": "2026-08-25T07:42:19Z",
             "owner": "cobbler",
             "repo": "cobbler",
             "stars": 2769
@@ -165,7 +165,7 @@
             "archived": false,
             "id": 15730865,
             "language": "Python",
-            "last_commit": "2026-08-24T23:44:48Z",
+            "last_commit": "2026-08-25T10:04:57Z",
             "owner": "spack",
             "repo": "spack",
             "stars": 5111
@@ -252,7 +252,7 @@
             "archived": false,
             "id": 275928343,
             "language": "C++",
-            "last_commit": "2026-08-24T20:25:57Z",
+            "last_commit": "2026-08-25T07:37:23Z",
             "owner": "breuner",
             "repo": "elbencho",
             "stars": 285
@@ -423,7 +423,7 @@
             "last_commit": "2025-08-13T17:21:57Z",
             "owner": "indigo-dc",
             "repo": "udocker",
-            "stars": 1781
+            "stars": 1782
           }
         },
         {
@@ -516,7 +516,7 @@
             "archived": false,
             "id": 173947939,
             "language": "C++",
-            "last_commit": "2026-08-21T14:33:07Z",
+            "last_commit": "2026-08-25T08:03:21Z",
             "owner": "mamba-org",
             "repo": "mamba",
             "stars": 8081
@@ -603,10 +603,10 @@
             "archived": false,
             "id": 2310495,
             "language": "C++",
-            "last_commit": "2026-08-25T01:32:51Z",
+            "last_commit": "2026-08-25T10:54:15Z",
             "owner": "ceph",
             "repo": "ceph",
-            "stars": 16961
+            "stars": 16960
           }
         },
         {
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:21:01.528Z",
+    "last_updated": "2026-08-25T11:13:53.264Z",
     "original_repository": "dstdev/awesome-hpc",
     "original_repository_id": 407182497,
     "original_repository_sha": "e4a7e9c85a5fba70a86b31c191213caf5425f953",

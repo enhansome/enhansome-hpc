@@ -39,7 +39,7 @@ High Performance Computing tools and resources for engineers and administrators.
 
 ## Provisioning
 
-* [Cobbler](https://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments ([Source Code](https://github.com/cobbler/cobbler) ⭐ 2,769 | 🐛 316 | 🌐 Python | 📅 2026-08-24) `GPL-2.0`.
+* [Cobbler](https://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments ([Source Code](https://github.com/cobbler/cobbler) ⭐ 2,769 | 🐛 315 | 🌐 Python | 📅 2026-08-25) `GPL-2.0`.
 * [Warewulf](https://warewulf.hpcng.org/) - Warewulf is a stateless and diskless container operating system provisioning system for large clusters of bare metal and/or virtual systems ([Source Code](https://github.com/hpcng/warewulf) ⭐ 659 | 🐛 265 | 🌐 Go | 📅 2026-08-12) `BSD-3`.
 * [XCat](https://xcat.org/) - xCAT is a toolkit for deployment and administration of clusters of all sizes ([Source Code](https://github.com/xcat2/xcat-core) ⭐ 396 | 🐛 258 | 🌐 Perl | 📅 2026-08-24) `EPL-1.0`.
 * [BlueBanquise](https://bluebanquise.com) - BlueBanquise is an open source cluster deployment and management stack built on Python and Ansible ([Source Code](https://github.com/bluebanquise/bluebanquise) ⭐ 163 | 🐛 37 | 🌐 Python | 📅 2026-08-22) `MIT`.
@@ -69,7 +69,7 @@ High Performance Computing tools and resources for engineers and administrators.
 
 ## Applications
 
-* [Spack](https://spack.io) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers ([Source Code](https://github.com/spack/spack) ⭐ 5,111 | 🐛 1,799 | 🌐 Python | 📅 2026-08-24) `other`.
+* [Spack](https://spack.io) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers ([Source Code](https://github.com/spack/spack) ⭐ 5,111 | 🐛 1,798 | 🌐 Python | 📅 2026-08-25) `other`.
 * [EasyBuild](https://easybuild.io/) -  EasyBuild - building software with ease ([Source Code](https://github.com/easybuilders/easybuild) ⭐ 513 | 🐛 118 | 🌐 Shell | 📅 2026-08-09) `GPL-2`.
 
 ## Compilers
@@ -79,7 +79,7 @@ High Performance Computing tools and resources for engineers and administrators.
 * [Intel](https://software.intel.com/content/www/us/en/develop/tools/oneapi/all-toolkits.html#hpc-kit) - The Intel compiler suite offers many language compilers for use in the HPC space `Proprietary`.
 * [Cray](https://bluewaters.ncsa.illinois.edu/cray-compiler) - A suite of compilers designed and optimized to target the AMD interlagos instruction set `Proprietary`.
 * [GNU](https://gcc.gnu.org/) - The GNU Compiler Collection is a suite of compilers targeting many languages ([Source Code](https://gcc.gnu.org/git.html)) `GPL-3`.
-* [LLVM](https://llvm.org/) - The LLVM project is a collection of modular compilers and toolchains ([Source Code](https://github.com/llvm/llvm-project) ⭐ 39,917 | 🐛 38,455 | 🌐 LLVM | 📅 2026-08-25) `OSS`.
+* [LLVM](https://llvm.org/) - The LLVM project is a collection of modular compilers and toolchains ([Source Code](https://github.com/llvm/llvm-project) ⭐ 39,926 | 🐛 38,448 | 🌐 LLVM | 📅 2026-08-25) `OSS`.
 
 ## MPI
 
@@ -96,7 +96,7 @@ High Performance Computing tools and resources for engineers and administrators.
 ## Benchmarking
 
 * [HPCC Systems](https://hpccsystems.com/) - HPCC Systems (High Performance Computing Cluster) is an open source, massive parallel-processing computing platform for big data processing and analytics ([Source Code](https://github.com/hpcc-systems/HPCC-Platform) ⭐ 614 | 🐛 479 | 🌐 C++ | 📅 2026-08-24) `other`.
-* [elbencho](https://github.com/breuner/elbencho) ⭐ 285 | 🐛 11 | 🌐 C++ | 📅 2026-08-24 - A distributed storage benchmark for files, objects & blocks with support for GPUs `GPL-3`.
+* [elbencho](https://github.com/breuner/elbencho) ⭐ 285 | 🐛 11 | 🌐 C++ | 📅 2026-08-25 - A distributed storage benchmark for files, objects & blocks with support for GPUs `GPL-3`.
 * [OSU Benchmarks](https://mvapich.cse.ohio-state.edu/benchmarks/) - A collection of benchmarking tools for MPI developed by Ohio State University `other`.
 * [Intel MPI Benchmarks](https://software.intel.com/content/www/us/en/develop/articles/intel-mpi-benchmarks.html) - A set of benchmarks developed by Intel for use with their Intel MPI `other`.
 * [LINPACK](https://www.netlib.org/linpack/) - LINPACK is a set of efficient fortran subroutines for solving linear systems which benchmarks are useful for HPC `other`.
@@ -131,7 +131,7 @@ High Performance Computing tools and resources for engineers and administrators.
 ## Containers
 
 * [Apptainer](https://apptainer.org) - Apptainer is an open source container system ([Source Code](https://github.com/apptainer/apptainer) ⭐ 1,949 | 🐛 191 | 🌐 Go | 📅 2026-08-24) `BSD`.
-* [uDocker](https://indigo-dc.github.io/udocker/) - A basic user tool to execute simple docker containers in batch or interactive systems without root privileges ([Source Code](https://github.com/indigo-dc/udocker) ⭐ 1,781 | 🐛 40 | 🌐 Python | 📅 2025-08-13) `Apache-2.0`.
+* [uDocker](https://indigo-dc.github.io/udocker/) - A basic user tool to execute simple docker containers in batch or interactive systems without root privileges ([Source Code](https://github.com/indigo-dc/udocker) ⭐ 1,782 | 🐛 40 | 🌐 Python | 📅 2025-08-13) `Apache-2.0`.
 * [HPC Container Maker](https://github.com/NVIDIA/hpc-container-maker) ⭐ 517 | 🐛 10 | 🌐 Python | 📅 2026-08-24 - HPC Container Maker is an open source tool to make it easier to generate container specification files. `Apache-2.0`.
 * [Shifter](https://www.nersc.gov/research-and-development/user-defined-images/) -  Shifter is Linux containers for HPC ([Source Code](https://github.com/NERSC/shifter) ⭐ 364 | 🐛 10 | 🌐 C | 📅 2026-08-18) `other`.
 * [Charliecloud](https://hpc.github.io/charliecloud/) - Charliecloud provides user-defined software stacks (UDSS) for high-performance computing (HPC) centers ([Source Code](https://github.com/hpc/charliecloud) ⚠️ Archived) `Apache-2.0`.
@@ -141,7 +141,7 @@ High Performance Computing tools and resources for engineers and administrators.
 
 ## Environment Management
 
-* [Mamba](https://mamba.readthedocs.io/en/latest/) - Mamba is a reimplementation of the conda package manager in C++ ([Source Code](https://github.com/mamba-org/mamba) ⭐ 8,081 | 🐛 466 | 🌐 C++ | 📅 2026-08-21) `BSD`.
+* [Mamba](https://mamba.readthedocs.io/en/latest/) - Mamba is a reimplementation of the conda package manager in C++ ([Source Code](https://github.com/mamba-org/mamba) ⭐ 8,081 | 🐛 463 | 🌐 C++ | 📅 2026-08-25) `BSD`.
 * [Environment Modules](https://modules.readthedocs.io/en/latest/) - Environment Modules: provides dynamic modification of a user's environment  ([Source Code](https://github.com/cea-hpc/modules) ⭐ 862 | 🐛 31 | 🌐 Tcl | 📅 2026-08-23) `GPL-2`.
 * [Lmod](https://lmod.readthedocs.io/en/latest/) - Lmod: An Environment Module System based on Lua, Reads TCL Modules, Supports a Software Hierarchy ([Source Code](https://github.com/TACC/Lmod) ⭐ 608 | 🐛 27 | 🌐 Lua | 📅 2026-08-24) `other`.
 * [Anaconda](https://www.anaconda.com/) - Anaconda is a Python and R distribution for use in computational science `other`.
@@ -153,7 +153,7 @@ High Performance Computing tools and resources for engineers and administrators.
 
 ## Parallel Filesystems
 
-* [Ceph](https://ceph.io/en/) - Ceph is a distributed object, block, and file storage platform ([Source Code](https://github.com/ceph/ceph) ⭐ 16,961 | 🐛 1,283 | 🌐 C++ | 📅 2026-08-25) `other`.
+* [Ceph](https://ceph.io/en/) - Ceph is a distributed object, block, and file storage platform ([Source Code](https://github.com/ceph/ceph) ⭐ 16,960 | 🐛 1,271 | 🌐 C++ | 📅 2026-08-25) `other`.
 * [MooseFS](https://moosefs.com/) - Moose File System is an Open-source, POSIX-compliant distributed file system developed by Core Technology ([Source Code](https://github.com/moosefs/moosefs) ⭐ 1,999 | 🐛 191 | 🌐 C | 📅 2026-05-18) `GPL-2.0`.
 * [OrangeFS](http://www.orangefs.org/) - OrangeFS is a next generation parallel file system for Linux clusters ([Source Code](https://github.com/waltligon/orangefs) ⭐ 77 | 🐛 47 | 🌐 C | 📅 2026-07-15) `other`.
 * [GPFS](https://www.ibm.com/docs/en/gpfs/4.1.0.4?topic=guide-introducing-general-parallel-file-system) - GPFS is a high-performance clustered file system software developed by IBM `Proprietary`.
