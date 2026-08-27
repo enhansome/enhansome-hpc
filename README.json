@@ -12,7 +12,7 @@
             "archived": false,
             "id": 2734482,
             "language": "Python",
-            "last_commit": "2026-08-27T11:17:19Z",
+            "last_commit": "2026-08-27T18:14:32Z",
             "owner": "cobbler",
             "repo": "cobbler",
             "stars": 2766
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 193971997,
             "language": "Python",
-            "last_commit": "2026-08-22T18:57:00Z",
+            "last_commit": "2026-08-27T20:39:59Z",
             "owner": "bluebanquise",
             "repo": "bluebanquise",
             "stars": 163
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 1924458,
             "language": "C",
-            "last_commit": "2026-08-27T01:23:35Z",
+            "last_commit": "2026-08-27T19:44:47Z",
             "owner": "SchedMD",
             "repo": "slurm",
-            "stars": 4284
+            "stars": 4285
           }
         },
         {
@@ -144,7 +144,7 @@
             "archived": false,
             "id": 8016431,
             "language": "Java",
-            "last_commit": "2026-08-26T22:18:28Z",
+            "last_commit": "2026-08-27T19:03:11Z",
             "owner": "pegasus-isi",
             "repo": "pegasus",
             "stars": 242
@@ -165,7 +165,7 @@
             "archived": false,
             "id": 15730865,
             "language": "Python",
-            "last_commit": "2026-08-27T11:18:56Z",
+            "last_commit": "2026-08-27T19:57:43Z",
             "owner": "spack",
             "repo": "spack",
             "stars": 5114
@@ -201,7 +201,7 @@
             "archived": false,
             "id": 24107001,
             "language": "C",
-            "last_commit": "2026-08-26T22:11:20Z",
+            "last_commit": "2026-08-27T18:58:28Z",
             "owner": "open-mpi",
             "repo": "ompi",
             "stars": 2633
@@ -219,7 +219,7 @@
             "last_commit": "2026-08-26T17:56:06Z",
             "owner": "pmodels",
             "repo": "mpich",
-            "stars": 684
+            "stars": 685
           }
         }
       ],
@@ -237,7 +237,7 @@
             "archived": false,
             "id": 2030681,
             "language": "C++",
-            "last_commit": "2026-08-26T15:32:10Z",
+            "last_commit": "2026-08-27T13:37:55Z",
             "owner": "hpcc-systems",
             "repo": "HPCC-Platform",
             "stars": 614
@@ -273,7 +273,7 @@
             "archived": false,
             "id": 89384186,
             "language": "Python",
-            "last_commit": "2026-08-27T10:03:31Z",
+            "last_commit": "2026-08-27T12:44:22Z",
             "owner": "reframe-hpc",
             "repo": "reframe",
             "stars": 283
@@ -567,7 +567,7 @@
             "archived": false,
             "id": 639921,
             "language": "C++",
-            "last_commit": "2026-08-27T04:03:38Z",
+            "last_commit": "2026-08-27T20:03:20Z",
             "owner": "Kitware",
             "repo": "ParaView",
             "stars": 1690
@@ -582,7 +582,7 @@
             "archived": false,
             "id": 165565988,
             "language": "C",
-            "last_commit": "2026-08-26T22:23:25Z",
+            "last_commit": "2026-08-27T20:45:26Z",
             "owner": "visit-dav",
             "repo": "visit",
             "stars": 531
@@ -603,10 +603,10 @@
             "archived": false,
             "id": 2310495,
             "language": "C++",
-            "last_commit": "2026-08-27T08:25:57Z",
+            "last_commit": "2026-08-27T20:48:29Z",
             "owner": "ceph",
             "repo": "ceph",
-            "stars": 16969
+            "stars": 16971
           }
         },
         {
@@ -659,7 +659,7 @@
                 "last_commit": "2026-08-19T03:40:51Z",
                 "owner": "NVIDIA",
                 "repo": "dcgm-exporter",
-                "stars": 1845
+                "stars": 1846
               }
             },
             {
@@ -716,7 +716,7 @@
                 "archived": false,
                 "id": 240054093,
                 "language": "Go",
-                "last_commit": "2026-08-23T16:15:40Z",
+                "last_commit": "2026-08-27T16:58:41Z",
                 "owner": "treydock",
                 "repo": "cgroup_exporter",
                 "stars": 29
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:42:05.635Z",
+    "last_updated": "2026-08-27T20:48:37.951Z",
     "original_repository_info": {
       "archived": false,
       "id": 407182497,
