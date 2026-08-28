@@ -12,11 +12,12 @@
             "archived": false,
             "id": 2734482,
             "language": "Python",
-            "last_commit": "2026-08-27T18:14:32Z",
+            "last_commit": "2026-08-28T14:01:52Z",
             "owner": "cobbler",
             "repo": "cobbler",
             "stars": 2766
-          }
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "warewulf",
             "repo": "warewulf",
             "stars": 659
-          }
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 27747508,
             "language": "Perl",
-            "last_commit": "2026-08-26T14:11:45Z",
+            "last_commit": "2026-08-28T21:11:29Z",
             "owner": "xcat2",
             "repo": "xcat-core",
             "stars": 396
-          }
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 193971997,
             "language": "Python",
-            "last_commit": "2026-08-27T20:39:59Z",
+            "last_commit": "2026-08-27T21:22:00Z",
             "owner": "bluebanquise",
             "repo": "bluebanquise",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         }
       ],
       "title": "Provisioning"
@@ -78,11 +82,12 @@
             "archived": false,
             "id": 1924458,
             "language": "C",
-            "last_commit": "2026-08-27T19:44:47Z",
+            "last_commit": "2026-08-28T21:10:03Z",
             "owner": "SchedMD",
             "repo": "slurm",
-            "stars": 4285
-          }
+            "stars": 4286
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "kubernetes-retired",
             "repo": "kube-batch",
             "stars": 1090
-          }
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "openpbs",
             "repo": "openpbs",
             "stars": 804
-          }
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         }
       ],
       "title": "Workload Managers"
@@ -133,7 +140,8 @@
             "owner": "broadinstitute",
             "repo": "cromwell",
             "stars": 1080
-          }
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         },
         {
           "node_type": "item",
@@ -144,11 +152,12 @@
             "archived": false,
             "id": 8016431,
             "language": "Java",
-            "last_commit": "2026-08-27T19:03:11Z",
+            "last_commit": "2026-08-28T20:25:41Z",
             "owner": "pegasus-isi",
             "repo": "pegasus",
-            "stars": 242
-          }
+            "stars": 243
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         }
       ],
       "title": "Pipelines"
@@ -165,11 +174,12 @@
             "archived": false,
             "id": 15730865,
             "language": "Python",
-            "last_commit": "2026-08-27T19:57:43Z",
+            "last_commit": "2026-08-28T17:38:36Z",
             "owner": "spack",
             "repo": "spack",
-            "stars": 5114
-          }
+            "stars": 5116
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         },
         {
           "node_type": "item",
@@ -184,7 +194,8 @@
             "owner": "easybuilders",
             "repo": "easybuild",
             "stars": 513
-          }
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         }
       ],
       "title": "Applications"
@@ -201,11 +212,12 @@
             "archived": false,
             "id": 24107001,
             "language": "C",
-            "last_commit": "2026-08-27T18:58:28Z",
+            "last_commit": "2026-08-28T16:44:03Z",
             "owner": "open-mpi",
             "repo": "ompi",
-            "stars": 2633
-          }
+            "stars": 2632
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         },
         {
           "node_type": "item",
@@ -219,8 +231,9 @@
             "last_commit": "2026-08-26T17:56:06Z",
             "owner": "pmodels",
             "repo": "mpich",
-            "stars": 685
-          }
+            "stars": 684
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         }
       ],
       "title": "MPI"
@@ -237,11 +250,12 @@
             "archived": false,
             "id": 2030681,
             "language": "C++",
-            "last_commit": "2026-08-27T13:37:55Z",
+            "last_commit": "2026-08-28T14:17:37Z",
             "owner": "hpcc-systems",
             "repo": "HPCC-Platform",
             "stars": 614
-          }
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         },
         {
           "node_type": "item",
@@ -256,7 +270,8 @@
             "owner": "breuner",
             "repo": "elbencho",
             "stars": 285
-          }
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         }
       ],
       "title": "Benchmarking"
@@ -273,11 +288,12 @@
             "archived": false,
             "id": 89384186,
             "language": "Python",
-            "last_commit": "2026-08-27T12:44:22Z",
+            "last_commit": "2026-08-27T21:48:21Z",
             "owner": "reframe-hpc",
             "repo": "reframe",
             "stars": 283
-          }
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         },
         {
           "node_type": "item",
@@ -292,7 +308,8 @@
             "owner": "coldfront",
             "repo": "coldfront",
             "stars": 161
-          }
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         },
         {
           "node_type": "item",
@@ -307,7 +324,8 @@
             "owner": "ubccr",
             "repo": "xdmod",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         },
         {
           "node_type": "item",
@@ -322,7 +340,8 @@
             "owner": "CLIP-HPC",
             "repo": "goslmailer",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         },
         {
           "node_type": "item",
@@ -337,7 +356,8 @@
             "owner": "hpc",
             "repo": "pavilion2",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         },
         {
           "node_type": "item",
@@ -352,7 +372,8 @@
             "owner": "olcf",
             "repo": "olcf-test-harness",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         }
       ],
       "title": "Miscellaneous"
@@ -373,7 +394,8 @@
             "owner": "chaos",
             "repo": "pdsh",
             "stars": 566
-          }
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         },
         {
           "node_type": "item",
@@ -388,7 +410,8 @@
             "owner": "clustershell",
             "repo": "clustershell",
             "stars": 474
-          }
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         }
       ],
       "title": "Parallel Shells"
@@ -405,11 +428,12 @@
             "archived": false,
             "id": 433446895,
             "language": "Go",
-            "last_commit": "2026-08-24T15:58:24Z",
+            "last_commit": "2026-08-28T19:20:18Z",
             "owner": "apptainer",
             "repo": "apptainer",
             "stars": 1949
-          }
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         },
         {
           "node_type": "item",
@@ -424,7 +448,8 @@
             "owner": "indigo-dc",
             "repo": "udocker",
             "stars": 1783
-          }
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         },
         {
           "node_type": "item",
@@ -435,11 +460,12 @@
             "archived": false,
             "id": 126385168,
             "language": "Python",
-            "last_commit": "2026-08-26T22:50:55Z",
+            "last_commit": "2026-08-28T20:20:50Z",
             "owner": "NVIDIA",
             "repo": "hpc-container-maker",
             "stars": 517
-          }
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         },
         {
           "node_type": "item",
@@ -454,7 +480,8 @@
             "owner": "NERSC",
             "repo": "shifter",
             "stars": 364
-          }
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         },
         {
           "node_type": "item",
@@ -469,7 +496,8 @@
             "owner": "hpc",
             "repo": "charliecloud",
             "stars": 318
-          }
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         },
         {
           "node_type": "item",
@@ -484,7 +512,8 @@
             "owner": "eth-cscs",
             "repo": "sarus",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         },
         {
           "node_type": "item",
@@ -499,7 +528,8 @@
             "owner": "singularityhub",
             "repo": "singularity-hpc",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         }
       ],
       "title": "Containers"
@@ -520,7 +550,8 @@
             "owner": "mamba-org",
             "repo": "mamba",
             "stars": 8082
-          }
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         },
         {
           "node_type": "item",
@@ -534,8 +565,9 @@
             "last_commit": "2026-08-27T08:36:35Z",
             "owner": "envmodules",
             "repo": "modules",
-            "stars": 862
-          }
+            "stars": 863
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         },
         {
           "node_type": "item",
@@ -546,11 +578,12 @@
             "archived": false,
             "id": 9381512,
             "language": "Lua",
-            "last_commit": "2026-08-26T09:17:43Z",
+            "last_commit": "2026-08-28T08:46:12Z",
             "owner": "TACC",
             "repo": "Lmod",
             "stars": 608
-          }
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         }
       ],
       "title": "Environment Management"
@@ -567,11 +600,12 @@
             "archived": false,
             "id": 639921,
             "language": "C++",
-            "last_commit": "2026-08-27T20:03:20Z",
+            "last_commit": "2026-08-28T14:33:16Z",
             "owner": "Kitware",
             "repo": "ParaView",
             "stars": 1690
-          }
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         },
         {
           "node_type": "item",
@@ -585,8 +619,9 @@
             "last_commit": "2026-08-27T20:45:26Z",
             "owner": "visit-dav",
             "repo": "visit",
-            "stars": 531
-          }
+            "stars": 532
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         }
       ],
       "title": "Visualization"
@@ -603,11 +638,12 @@
             "archived": false,
             "id": 2310495,
             "language": "C++",
-            "last_commit": "2026-08-27T20:48:29Z",
+            "last_commit": "2026-08-28T19:00:29Z",
             "owner": "ceph",
             "repo": "ceph",
-            "stars": 16971
-          }
+            "stars": 16975
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         },
         {
           "node_type": "item",
@@ -621,8 +657,9 @@
             "last_commit": "2026-05-18T12:06:51Z",
             "owner": "moosefs",
             "repo": "moosefs",
-            "stars": 2000
-          }
+            "stars": 2001
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         },
         {
           "node_type": "item",
@@ -636,8 +673,9 @@
             "last_commit": "2026-07-15T22:10:11Z",
             "owner": "waltligon",
             "repo": "orangefs",
-            "stars": 77
-          }
+            "stars": 78
+          },
+          "first_seen": "2026-08-28T21:15:32.296Z"
         }
       ],
       "title": "Parallel Filesystems"
@@ -659,8 +697,9 @@
                 "last_commit": "2026-08-19T03:40:51Z",
                 "owner": "NVIDIA",
                 "repo": "dcgm-exporter",
-                "stars": 1846
-              }
+                "stars": 1847
+              },
+              "first_seen": "2026-08-28T21:15:32.296Z"
             },
             {
               "node_type": "item",
@@ -675,7 +714,8 @@
                 "owner": "treydock",
                 "repo": "infiniband_exporter",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T21:15:32.296Z"
             },
             {
               "node_type": "item",
@@ -690,7 +730,8 @@
                 "owner": "treydock",
                 "repo": "gpfs_exporter",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T21:15:32.296Z"
             },
             {
               "node_type": "item",
@@ -705,7 +746,8 @@
                 "owner": "GSI-HPC",
                 "repo": "lustre_exporter",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T21:15:32.296Z"
             },
             {
               "node_type": "item",
@@ -720,7 +762,8 @@
                 "owner": "treydock",
                 "repo": "cgroup_exporter",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T21:15:32.296Z"
             },
             {
               "node_type": "item",
@@ -735,7 +778,8 @@
                 "owner": "ubccr",
                 "repo": "slurm-exporter",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T21:15:32.296Z"
             },
             {
               "node_type": "item",
@@ -750,7 +794,8 @@
                 "owner": "phpHavok",
                 "repo": "cgroups_exporter",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:15:32.296Z"
             },
             {
               "node_type": "item",
@@ -765,7 +810,8 @@
                 "owner": "treydock",
                 "repo": "prometheus-slurm-exporter",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:15:32.296Z"
             }
           ],
           "description": null,
@@ -777,7 +823,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:48:37.951Z",
+    "last_updated": "2026-08-28T21:15:32.296Z",
     "original_repository_info": {
       "archived": false,
       "id": 407182497,
