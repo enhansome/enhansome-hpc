@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cobbler is a versatile Linux deployment server",
+            "homepage": "https://cobbler.github.io",
             "id": 2734482,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-28T14:01:52Z",
+            "open_issues": 309,
             "owner": "cobbler",
             "repo": "cobbler",
-            "stars": 2766
+            "stars": 2766,
+            "topics": [
+              "cobbler",
+              "deployment",
+              "dhcp",
+              "hacktoberfest",
+              "pxe",
+              "python",
+              "tftp"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         },
@@ -26,12 +39,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Warewulf is a stateless and diskless container operating system provisioning system for large clusters of bare metal and/or virtual systems.",
+            "homepage": "https://warewulf.org",
             "id": 308060485,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-12T00:43:54Z",
+            "open_issues": 266,
             "owner": "warewulf",
             "repo": "warewulf",
-            "stars": 659
+            "stars": 659,
+            "topics": [
+              "clusters",
+              "containers",
+              "hpc",
+              "provisioning",
+              "stateless",
+              "warewulf"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         },
@@ -42,12 +67,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code repo for xCAT core packages",
+            "homepage": null,
             "id": 27747508,
             "language": "Perl",
+            "license": "EPL-1.0",
             "last_commit": "2026-08-28T21:11:29Z",
+            "open_issues": 255,
             "owner": "xcat2",
             "repo": "xcat-core",
-            "stars": 396
+            "stars": 396,
+            "topics": [
+              "bare-metal",
+              "cluster",
+              "deployment",
+              "hpc",
+              "infrastructure",
+              "infrastructure-management",
+              "ipmi",
+              "openbmc",
+              "openpower",
+              "provisioning",
+              "pxe",
+              "remote-execution",
+              "stateless"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         },
@@ -58,12 +102,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A coherent Ansible roles collection to simply deploy clusters of nodes.",
+            "homepage": "https://bluebanquise.com",
             "id": 193971997,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T21:22:00Z",
+            "open_issues": 38,
             "owner": "bluebanquise",
             "repo": "bluebanquise",
-            "stars": 163
+            "stars": 163,
+            "topics": [
+              "ansible",
+              "baremetal",
+              "clusters",
+              "hpc",
+              "linux",
+              "pxe"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         }
@@ -80,12 +136,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Slurm: A Highly Scalable Workload Manager",
+            "homepage": "https://slurm.schedmd.com/",
             "id": 1924458,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T21:10:03Z",
+            "open_issues": 14,
             "owner": "SchedMD",
             "repo": "slurm",
-            "stars": 4286
+            "stars": 4286,
+            "topics": [
+              "slurm",
+              "slurm-job-scheduler",
+              "slurm-workload-manager"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         },
@@ -96,12 +161,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A batch scheduler of kubernetes for high performance workload, e.g. AI/ML, BigData, HPC",
+            "homepage": null,
             "id": 95838111,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-22T13:50:02Z",
+            "open_issues": 0,
             "owner": "kubernetes-retired",
             "repo": "kube-batch",
-            "stars": 1090
+            "stars": 1090,
+            "topics": [
+              "bigdata",
+              "hpc",
+              "k8s-sig-scheduling",
+              "kubernetes",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         },
@@ -112,12 +188,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An HPC workload manager and job scheduler for desktops, clusters, and clouds.",
+            "homepage": "https://www.openpbs.org",
             "id": 59082072,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-10T16:56:22Z",
+            "open_issues": 116,
             "owner": "openpbs",
             "repo": "openpbs",
-            "stars": 804
+            "stars": 804,
+            "topics": [
+              "cloud",
+              "cluster",
+              "green",
+              "hooks",
+              "hpc",
+              "job-scheduler",
+              "pbs",
+              "pbs-professional",
+              "plugins",
+              "provisioning",
+              "scheduling"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         }
@@ -134,12 +227,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments",
+            "homepage": "http://cromwell.readthedocs.io/",
             "id": 34136406,
             "language": "Scala",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-04T14:32:07Z",
+            "open_issues": 813,
             "owner": "broadinstitute",
             "repo": "cromwell",
-            "stars": 1080
+            "stars": 1080,
+            "topics": [
+              "application",
+              "bioinformatics",
+              "cloud",
+              "containers",
+              "docker",
+              "executor",
+              "ga4gh",
+              "hpc",
+              "scala",
+              "wdl",
+              "workflow",
+              "workflow-description-language",
+              "workflow-execution"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         },
@@ -150,12 +262,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pegasus Workflow Management System - Automate, recover, and debug scientific computations.",
+            "homepage": "https://pegasus.isi.edu",
             "id": 8016431,
             "language": "Java",
-            "last_commit": "2026-08-28T20:25:41Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T01:26:36Z",
+            "open_issues": 26,
             "owner": "pegasus-isi",
             "repo": "pegasus",
-            "stars": 243
+            "stars": 243,
+            "topics": [
+              "bioinformatics",
+              "distributed-systems",
+              "hpc",
+              "workflow",
+              "workflow-management-system"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         }
@@ -172,12 +295,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers.",
+            "homepage": "https://spack.io",
             "id": 15730865,
             "language": "Python",
-            "last_commit": "2026-08-28T17:38:36Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T00:58:29Z",
+            "open_issues": 1803,
             "owner": "spack",
             "repo": "spack",
-            "stars": 5116
+            "stars": 5116,
+            "topics": [
+              "build-tools",
+              "hpc",
+              "hpsf",
+              "linux",
+              "macos",
+              "package-manager",
+              "python",
+              "radiuss",
+              "scientific-computing",
+              "spack",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         },
@@ -188,12 +328,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EasyBuild - building software with ease",
+            "homepage": "http://easybuild.io",
             "id": 6246304,
             "language": "Shell",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-09T19:38:38Z",
+            "open_issues": 118,
             "owner": "easybuilders",
             "repo": "easybuild",
-            "stars": 513
+            "stars": 513,
+            "topics": [
+              "hacktoberfest",
+              "hpc",
+              "linux",
+              "python",
+              "scientific-software"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         }
@@ -210,12 +361,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open MPI main development repository",
+            "homepage": "https://www.open-mpi.org",
             "id": 24107001,
             "language": "C",
-            "last_commit": "2026-08-28T16:44:03Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T21:45:47Z",
+            "open_issues": 821,
             "owner": "open-mpi",
             "repo": "ompi",
-            "stars": 2632
+            "stars": 2632,
+            "topics": [
+              "c",
+              "fortran",
+              "hacktoberfest",
+              "hpc",
+              "mpi",
+              "openmpi"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         },
@@ -226,12 +389,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official MPICH Repository",
+            "homepage": "http://www.mpich.org",
             "id": 70918679,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T17:56:06Z",
+            "open_issues": 305,
             "owner": "pmodels",
             "repo": "mpich",
-            "stars": 684
+            "stars": 684,
+            "topics": [
+              "c",
+              "fortran",
+              "hpc",
+              "mpi"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         }
@@ -248,12 +421,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HPCC Systems (High Performance Computing Cluster) is an open source, massive parallel-processing computing platform for big data processing and analytics.",
+            "homepage": "http://hpccsystems.com",
             "id": 2030681,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T14:17:37Z",
+            "open_issues": 479,
             "owner": "hpcc-systems",
             "repo": "HPCC-Platform",
-            "stars": 614
+            "stars": 614,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         },
@@ -264,12 +442,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A distributed storage benchmark for file systems, object stores & block devices with support for GPUs",
+            "homepage": null,
             "id": 275928343,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-26T08:42:24Z",
+            "open_issues": 12,
             "owner": "breuner",
             "repo": "elbencho",
-            "stars": 285
+            "stars": 285,
+            "topics": [
+              "benchmark",
+              "block-storage",
+              "deep-learning",
+              "distributed",
+              "file-systems",
+              "fio",
+              "gpu",
+              "hdfs",
+              "ior",
+              "linux",
+              "live-stats",
+              "mdtest",
+              "nvme",
+              "parallel",
+              "s3",
+              "storage",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         }
@@ -286,12 +487,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful Python framework for writing and running portable regression tests and benchmarks for HPC systems.",
+            "homepage": "https://reframe-hpc.readthedocs.org",
             "id": 89384186,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T21:48:21Z",
+            "open_issues": 127,
             "owner": "reframe-hpc",
             "repo": "reframe",
-            "stars": 283
+            "stars": 283,
+            "topics": [
+              "benchmarking",
+              "continuous-integration",
+              "framework",
+              "hpc",
+              "performance-testing",
+              "python3",
+              "regression-testing",
+              "validation-testing"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         },
@@ -302,12 +517,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HPC Resource Allocation System",
+            "homepage": "https://coldfront.dev",
             "id": 143042628,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-25T16:14:04Z",
+            "open_issues": 111,
             "owner": "coldfront",
             "repo": "coldfront",
-            "stars": 161
+            "stars": 161,
+            "topics": [
+              "high-performance-computing",
+              "resource-allocation"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         },
@@ -318,12 +541,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open framework for collecting and analyzing HPC metrics.",
+            "homepage": "https://open.xdmod.org",
             "id": 72233032,
             "language": "PHP",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-25T15:48:44Z",
+            "open_issues": 31,
             "owner": "ubccr",
             "repo": "xdmod",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "hpc",
+              "monitoring",
+              "xdmod"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         },
@@ -334,12 +566,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GoSlurmMailer - drop in replacement for default slurm MailProg. Delivers slurm job messages to various destinations.",
+            "homepage": null,
             "id": 492814305,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-10-01T11:47:40Z",
+            "open_issues": 6,
             "owner": "CLIP-HPC",
             "repo": "goslmailer",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "discord",
+              "hpc",
+              "mail",
+              "matrix",
+              "mattermost",
+              "msteams",
+              "notifications",
+              "slack",
+              "slurm",
+              "telegram"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         },
@@ -350,12 +598,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pavilion is a Python 3 (3.6+) based framework for running and analyzing tests targeting HPC systems. ",
+            "homepage": "https://pavilion2.readthedocs.io/",
             "id": 203612853,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T11:24:29Z",
+            "open_issues": 237,
             "owner": "hpc",
             "repo": "pavilion2",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "hpc",
+              "hpc-clusters",
+              "hpc-systems",
+              "test-automation"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         },
@@ -366,12 +624,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OLCF Test Harness",
+            "homepage": "https://olcf.github.io/olcf-test-harness/",
             "id": 328808943,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-26T18:50:32Z",
+            "open_issues": 42,
             "owner": "olcf",
             "repo": "olcf-test-harness",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         }
@@ -388,12 +651,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A high performance, parallel remote shell utility",
+            "homepage": null,
             "id": 35436719,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-01-12T18:40:25Z",
+            "open_issues": 44,
             "owner": "chaos",
             "repo": "pdsh",
-            "stars": 566
+            "stars": 567,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         },
@@ -404,12 +672,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scalable cluster administration Python framework — Manage node sets, node groups and execute commands on cluster nodes in parallel.",
+            "homepage": "http://clustershell.github.io/clustershell/",
             "id": 3607283,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-26T12:17:24Z",
+            "open_issues": 117,
             "owner": "clustershell",
             "repo": "clustershell",
-            "stars": 474
+            "stars": 474,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         }
@@ -426,12 +699,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apptainer: Application containers for Linux",
+            "homepage": "https://apptainer.org",
             "id": 433446895,
             "language": "Go",
-            "last_commit": "2026-08-28T19:20:18Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T22:57:36Z",
+            "open_issues": 195,
             "owner": "apptainer",
             "repo": "apptainer",
-            "stars": 1949
+            "stars": 1949,
+            "topics": [
+              "apptainer",
+              "containers",
+              "hpc",
+              "linux",
+              "rootless-containers",
+              "science",
+              "singularity",
+              "singularity-container"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         },
@@ -442,12 +729,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A basic user tool to execute simple docker containers in batch or interactive systems without root privileges.",
+            "homepage": "https://indigo-dc.github.io/udocker/",
             "id": 57313402,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-13T17:21:57Z",
+            "open_issues": 40,
             "owner": "indigo-dc",
             "repo": "udocker",
-            "stars": 1783
+            "stars": 1783,
+            "topics": [
+              "batch",
+              "chroot",
+              "containers",
+              "deep-hybrid-datacloud",
+              "docker",
+              "docker-containers",
+              "emulation",
+              "eosc-hub",
+              "fakechroot",
+              "grid",
+              "hpc",
+              "indigo",
+              "proot",
+              "root-privileges",
+              "runc",
+              "user"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         },
@@ -458,12 +767,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HPC Container Maker",
+            "homepage": null,
             "id": 126385168,
             "language": "Python",
-            "last_commit": "2026-08-28T20:20:50Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:07:56Z",
+            "open_issues": 11,
             "owner": "NVIDIA",
             "repo": "hpc-container-maker",
-            "stars": 517
+            "stars": 517,
+            "topics": [
+              "containers",
+              "docker",
+              "hpc",
+              "singularity"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         },
@@ -474,12 +793,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shifter - Linux Containers for HPC",
+            "homepage": null,
             "id": 52631494,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-18T05:01:57Z",
+            "open_issues": 10,
             "owner": "NERSC",
             "repo": "shifter",
-            "stars": 364
+            "stars": 364,
+            "topics": [
+              "containers",
+              "hpc",
+              "linux"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         },
@@ -490,12 +818,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Now hosted on GitLab.",
+            "homepage": "https://gitlab.com/charliecloud/main",
             "id": 37544052,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-14T20:15:41Z",
+            "open_issues": 301,
             "owner": "hpc",
             "repo": "charliecloud",
-            "stars": 318
+            "stars": 318,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         },
@@ -506,12 +839,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OCI-compatible engine to deploy Linux containers on HPC environments.",
+            "homepage": "https://sarus.readthedocs.io/en/stable/",
             "id": 160826280,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-10-30T16:58:56Z",
+            "open_issues": 14,
             "owner": "eth-cscs",
             "repo": "sarus",
-            "stars": 150
+            "stars": 150,
+            "topics": [
+              "containers",
+              "cpp11",
+              "docker",
+              "hpc",
+              "linux",
+              "oci",
+              "runc"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         },
@@ -522,12 +868,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local filesystem registry for containers (intended for HPC) using Lmod or Environment Modules. Works for users and admins.",
+            "homepage": "https://singularity-hpc.readthedocs.io",
             "id": 354130612,
             "language": "Python",
+            "license": "MPL-2.0",
             "last_commit": "2025-12-13T00:37:11Z",
+            "open_issues": 35,
             "owner": "singularityhub",
             "repo": "singularity-hpc",
-            "stars": 134
+            "stars": 134,
+            "topics": [
+              "containers",
+              "hpc",
+              "lmod",
+              "reproducibility",
+              "singularity"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         }
@@ -544,12 +901,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Fast Cross-Platform Package Manager",
+            "homepage": "https://mamba.readthedocs.io",
             "id": 173947939,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-25T08:03:21Z",
+            "open_issues": 463,
             "owner": "mamba-org",
             "repo": "mamba",
-            "stars": 8082
+            "stars": 8082,
+            "topics": [
+              "conda",
+              "cpp",
+              "package-manager",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         },
@@ -560,12 +927,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Environment Modules: provides dynamic modification of a user's environment",
+            "homepage": "https://envmodules.io",
             "id": 84907885,
             "language": "Tcl",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-27T08:36:35Z",
+            "open_issues": 31,
             "owner": "envmodules",
             "repo": "modules",
-            "stars": 863
+            "stars": 863,
+            "topics": [
+              "environment",
+              "environment-modules",
+              "hpc",
+              "module",
+              "modulefiles",
+              "shell",
+              "tcl"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         },
@@ -576,12 +956,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lmod: An Environment Module System based on Lua, Reads TCL Modules, Supports a Software Hierarchy",
+            "homepage": "http://lmod.readthedocs.org",
             "id": 9381512,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T08:46:12Z",
+            "open_issues": 26,
             "owner": "TACC",
             "repo": "Lmod",
-            "stars": 608
+            "stars": 608,
+            "topics": [
+              "environment-modules",
+              "hpc",
+              "lmod",
+              "lua",
+              "tacc",
+              "xsede"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         }
@@ -598,12 +990,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VTK-based Data Analysis and Visualization Application",
+            "homepage": "http://www.paraview.org",
             "id": 639921,
             "language": "C++",
-            "last_commit": "2026-08-28T14:33:16Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-29T04:03:16Z",
+            "open_issues": 8,
             "owner": "Kitware",
             "repo": "ParaView",
-            "stars": 1690
+            "stars": 1690,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         },
@@ -614,12 +1011,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VisIt - Visualization and Data Analysis for Mesh-based Scientific Data",
+            "homepage": "https://visit.llnl.gov",
             "id": 165565988,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T20:45:26Z",
+            "open_issues": 1936,
             "owner": "visit-dav",
             "repo": "visit",
-            "stars": 532
+            "stars": 532,
+            "topics": [
+              "data-analysis",
+              "data-viz",
+              "hpc",
+              "python",
+              "radiuss",
+              "scientific-computing",
+              "scientific-visualization",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         }
@@ -636,12 +1047,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ceph is a distributed object, block, and file storage platform ",
+            "homepage": "https://ceph.io",
             "id": 2310495,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T19:00:29Z",
+            "open_issues": 1299,
             "owner": "ceph",
             "repo": "ceph",
-            "stars": 16975
+            "stars": 16975,
+            "topics": [
+              "block-storage",
+              "cloud-storage",
+              "distributed-file-system",
+              "distributed-storage",
+              "erasure-coding",
+              "fuse",
+              "hdfs",
+              "high-performance",
+              "highly-available",
+              "iscsi",
+              "kubernetes",
+              "nfs",
+              "nvme-over-fabrics",
+              "object-store",
+              "posix",
+              "replication",
+              "s3",
+              "smb",
+              "software-defined-storage",
+              "storage"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         },
@@ -652,12 +1089,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MooseFS Distributed Storage – Open Source, Petabyte, Fault-Tolerant, Highly Performing, Scalable Network Distributed File System / Software-Defined Storage",
+            "homepage": "https://moosefs.com",
             "id": 50505775,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-05-18T12:06:51Z",
+            "open_issues": 191,
             "owner": "moosefs",
             "repo": "moosefs",
-            "stars": 2001
+            "stars": 2001,
+            "topics": [
+              "backup",
+              "block-storage",
+              "distributed-computing",
+              "distributed-file-system",
+              "distributed-storage",
+              "ditributed-systems",
+              "erasure-coding",
+              "file-storage",
+              "file-systems",
+              "filesystem",
+              "fuse-filesystem",
+              "high-availability",
+              "hpc",
+              "hpc-cluster",
+              "hpc-storage",
+              "posix",
+              "posix-compliant",
+              "snapshots",
+              "software-defined-storage",
+              "storage"
+            ]
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         },
@@ -668,12 +1131,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository for PVFS/OrangeFS",
+            "homepage": null,
             "id": 134754833,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-15T22:10:11Z",
+            "open_issues": 47,
             "owner": "waltligon",
             "repo": "orangefs",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
         }
@@ -692,12 +1160,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NVIDIA GPU metrics exporter for Prometheus leveraging DCGM",
+                "homepage": null,
                 "id": 395039200,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T03:40:51Z",
+                "open_issues": 184,
                 "owner": "NVIDIA",
                 "repo": "dcgm-exporter",
-                "stars": 1847
+                "stars": 1847,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:32.296Z"
             },
@@ -708,12 +1181,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 361212660,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-07T20:36:44Z",
+                "open_issues": 3,
                 "owner": "treydock",
                 "repo": "infiniband_exporter",
-                "stars": 81
+                "stars": 81,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:32.296Z"
             },
@@ -724,12 +1202,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 234810391,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-06T13:37:13Z",
+                "open_issues": 4,
                 "owner": "treydock",
                 "repo": "gpfs_exporter",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:32.296Z"
             },
@@ -740,12 +1223,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prometheus exporter for use with the Lustre parallel filesystem",
+                "homepage": null,
                 "id": 337372171,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-05T08:34:41Z",
+                "open_issues": 9,
                 "owner": "GSI-HPC",
                 "repo": "lustre_exporter",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "lustre",
+                  "lustre-exporter",
+                  "metrics",
+                  "prometheus-exporter"
+                ]
               },
               "first_seen": "2026-08-28T21:15:32.296Z"
             },
@@ -756,12 +1249,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 240054093,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T16:58:41Z",
+                "open_issues": 5,
                 "owner": "treydock",
                 "repo": "cgroup_exporter",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:32.296Z"
             },
@@ -772,12 +1270,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Slurm Exporter for Prometheus",
+                "homepage": null,
                 "id": 269358516,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-27T13:13:09Z",
+                "open_issues": 4,
                 "owner": "ubccr",
                 "repo": "slurm-exporter",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:32.296Z"
             },
@@ -788,12 +1291,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Prometheus exporter for cgroup-level metrics.",
+                "homepage": null,
                 "id": 360925126,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2021-07-02T15:05:49Z",
+                "open_issues": 3,
                 "owner": "phpHavok",
                 "repo": "cgroups_exporter",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:32.296Z"
             },
@@ -804,12 +1312,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prometheus exporter for performance metrics from Slurm.",
+                "homepage": null,
                 "id": 285095035,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-27T14:51:46Z",
+                "open_issues": 0,
                 "owner": "treydock",
                 "repo": "prometheus-slurm-exporter",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:32.296Z"
             }
@@ -823,15 +1336,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:15:32.296Z",
+    "last_updated": "2026-08-29T04:47:46.928Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of Awesome HPC software and tools",
+      "homepage": null,
       "id": 407182497,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-08-06T10:36:49Z",
+      "open_issues": 19,
       "owner": "dstdev",
       "repo": "awesome-hpc",
-      "stars": 270
+      "stars": 270,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "e4a7e9c85a5fba70a86b31c191213caf5425f953",
     "enhanced_repository": "enhansome/enhansome-hpc",
