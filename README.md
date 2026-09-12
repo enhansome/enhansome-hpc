@@ -41,7 +41,7 @@ High Performance Computing tools and resources for engineers and administrators.
 
 * [Cobbler](https://cobbler.github.io/) - Cobbler is a Linux installation server that allows for rapid setup of network installation environments ([Source Code](https://github.com/cobbler/cobbler) ⭐ 2,772 | 🐛 308 | 🌐 Python | 📅 2026-09-02) `GPL-2.0`.
 * [Warewulf](https://warewulf.hpcng.org/) - Warewulf is a stateless and diskless container operating system provisioning system for large clusters of bare metal and/or virtual systems ([Source Code](https://github.com/hpcng/warewulf) ⭐ 662 | 🐛 261 | 🌐 Go | 📅 2026-09-11) `BSD-3`.
-* [XCat](https://xcat.org/) - xCAT is a toolkit for deployment and administration of clusters of all sizes ([Source Code](https://github.com/xcat2/xcat-core) ⭐ 396 | 🐛 234 | 🌐 Perl | 📅 2026-09-11) `EPL-1.0`.
+* [XCat](https://xcat.org/) - xCAT is a toolkit for deployment and administration of clusters of all sizes ([Source Code](https://github.com/xcat2/xcat-core) ⭐ 396 | 🐛 233 | 🌐 Perl | 📅 2026-09-11) `EPL-1.0`.
 * [BlueBanquise](https://bluebanquise.com) - BlueBanquise is an open source cluster deployment and management stack built on Python and Ansible ([Source Code](https://github.com/bluebanquise/bluebanquise) ⭐ 164 | 🐛 37 | 🌐 Python | 📅 2026-09-04) `MIT`.
 * [Grendel](https://grendel.readthedocs.io/) - Bare Metal Provisioning system for HPC Linux clusters ([Source Code](https://github.com`ubccr/grendel)) `GPL-3`.
 * [Rocks](http://www.rocksclusters.org/) - A Linux distribution for developing Linux clusters `other`.
@@ -50,7 +50,7 @@ High Performance Computing tools and resources for engineers and administrators.
 
 ## Workload Managers
 
-* [Slurm](https://slurm.schedmd.com/documentation.html) - A free and open source job scheduler ([Source Code](https://github.com/SchedMD/slurm) ⭐ 4,343 | 🐛 17 | 🌐 C | 📅 2026-09-11) `OSS`.
+* [Slurm](https://slurm.schedmd.com/documentation.html) - A free and open source job scheduler ([Source Code](https://github.com/SchedMD/slurm) ⭐ 4,346 | 🐛 17 | 🌐 C | 📅 2026-09-11) `OSS`.
 * [Kube Batch](https://github.com/kubernetes-sigs/kube-batch) ⚠️ Archived - A batch scheduler of kubernetes for high performance workload, e.g. AI/ML, BigData, HPC `Apache-2.0`.
 * [OpenPBS](https://www.openpbs.org/) - OpenPBS® software optimizes job scheduling and workload management in high-performance computing (HPC) environments ([Source Code](https://github.com/openpbs/openpbs) ⭐ 805 | 🐛 116 | 🌐 C | 📅 2026-04-10) `other`.
 * [LSF](https://www.ibm.com/products/hpc-workload-management) - A job scheduler and workload management software developed by IBM `Proprietary`.
@@ -63,13 +63,13 @@ High Performance Computing tools and resources for engineers and administrators.
 
 ## Pipelines
 
-* [Cromwell](https://cromwell.readthedocs.io/en/stable/) - Scientific workflow engine designed for simplicity & scalability ([Source Code](https://github.com/broadinstitute/cromwell) ⭐ 1,081 | 🐛 816 | 🌐 Scala | 📅 2026-09-11) `BSD-3`.
-* [Pegasus](https://pegasus.isi.edu/) - A configurable system for mapping and executing scientific workflows over a wide range of computational infrastructure ([Source Code](https://github.com/pegasus-isi/pegasus) ⭐ 245 | 🐛 28 | 🌐 Java | 📅 2026-09-10)`Apache-2.0`.
+* [Cromwell](https://cromwell.readthedocs.io/en/stable/) - Scientific workflow engine designed for simplicity & scalability ([Source Code](https://github.com/broadinstitute/cromwell) ⭐ 1,081 | 🐛 816 | 🌐 Scala | 📅 2026-09-12) `BSD-3`.
+* [Pegasus](https://pegasus.isi.edu/) - A configurable system for mapping and executing scientific workflows over a wide range of computational infrastructure ([Source Code](https://github.com/pegasus-isi/pegasus) ⭐ 245 | 🐛 23 | 🌐 Java | 📅 2026-09-12)`Apache-2.0`.
 * [Nextflow](https://nextflow.io) - Data drive computational pipelines `Apache-2.0`.
 
 ## Applications
 
-* [Spack](https://spack.io) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers ([Source Code](https://github.com/spack/spack) ⭐ 5,121 | 🐛 1,801 | 🌐 Python | 📅 2026-09-11) `other`.
+* [Spack](https://spack.io) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers ([Source Code](https://github.com/spack/spack) ⭐ 5,120 | 🐛 1,801 | 🌐 Python | 📅 2026-09-12) `other`.
 * [EasyBuild](https://easybuild.io/) -  EasyBuild - building software with ease ([Source Code](https://github.com/easybuilders/easybuild) ⭐ 513 | 🐛 118 | 🌐 Shell | 📅 2026-09-10) `GPL-2`.
 
 ## Compilers
@@ -79,12 +79,12 @@ High Performance Computing tools and resources for engineers and administrators.
 * [Intel](https://software.intel.com/content/www/us/en/develop/tools/oneapi/all-toolkits.html#hpc-kit) - The Intel compiler suite offers many language compilers for use in the HPC space `Proprietary`.
 * [Cray](https://bluewaters.ncsa.illinois.edu/cray-compiler) - A suite of compilers designed and optimized to target the AMD interlagos instruction set `Proprietary`.
 * [GNU](https://gcc.gnu.org/) - The GNU Compiler Collection is a suite of compilers targeting many languages ([Source Code](https://gcc.gnu.org/git.html)) `GPL-3`.
-* [LLVM](https://llvm.org/) - The LLVM project is a collection of modular compilers and toolchains ([Source Code](https://github.com/llvm/llvm-project) ⭐ 40,417 | 🐛 39,033 | 🌐 LLVM | 📅 2026-09-11) `OSS`.
+* [LLVM](https://llvm.org/) - The LLVM project is a collection of modular compilers and toolchains ([Source Code](https://github.com/llvm/llvm-project) ⭐ 40,427 | 🐛 39,061 | 🌐 LLVM | 📅 2026-09-12) `OSS`.
 
 ## MPI
 
-* [OpenMPI](https://www.open-mpi.org/) - OpenMPI is an open source implementation of the MPI-3.1 standard ([Source Code](https://github.com/open-mpi/ompi) ⭐ 2,640 | 🐛 834 | 🌐 C | 📅 2026-09-10) `BSD`.
-* [MPICH](https://www.mpich.org/) - MPICH is a high-performance and widely portable implementation of the MPI-3.1 standard ([Source Code](https://github.com/pmodels/mpich) ⭐ 686 | 🐛 301 | 🌐 C | 📅 2026-09-10) `other`.
+* [OpenMPI](https://www.open-mpi.org/) - OpenMPI is an open source implementation of the MPI-3.1 standard ([Source Code](https://github.com/open-mpi/ompi) ⭐ 2,639 | 🐛 833 | 🌐 C | 📅 2026-09-11) `BSD`.
+* [MPICH](https://www.mpich.org/) - MPICH is a high-performance and widely portable implementation of the MPI-3.1 standard ([Source Code](https://github.com/pmodels/mpich) ⭐ 686 | 🐛 303 | 🌐 C | 📅 2026-09-11) `other`.
 * [MVAPICH](https://mvapich.cse.ohio-state.edu/) - MVAPICH is an open source implementation of the MPI-3.1 standard developed by Ohio State University `BSD`.
 * [Intel-MPI](https://www.intel.com/content/www/us/en/developer/tools/oneapi/mpi-library.html) - Intel-MPI is Intel's MPI-3.1 implementation included in their compiler suite `other`.
 
@@ -107,9 +107,9 @@ High Performance Computing tools and resources for engineers and administrators.
 
 ## Miscellaneous
 
-* [Reframe](https://reframe-hpc.readthedocs.io/en/stable/) - A powerful Python framework for writing and running portable regression tests and benchmarks for HPC systems. ([Source Code](https://github.com/reframe-hpc/reframe) ⭐ 283 | 🐛 136 | 🌐 Python | 📅 2026-09-01) `BSD-3`.
-* [Coldfront](https://coldfront.readthedocs.io/en/latest/) - ColdFront is an open source resource allocation system designed to provide a central portal for administration, reporting, and measuring scientific impact of HPC resources ([Source Code](https://github.com/ubccr/coldfront) ⭐ 161 | 🐛 114 | 🌐 Python | 📅 2026-09-03) `GPL-3`.
-* [Open XDMod](https://open.xdmod.org) - Open XDMoD is an open source tool to facilitate the management of high performance computing resources ([Source Code](https://github.com/ubccr/xdmod/) ⭐ 105 | 🐛 30 | 🌐 PHP | 📅 2026-09-09) `LGPL-3`.
+* [Reframe](https://reframe-hpc.readthedocs.io/en/stable/) - A powerful Python framework for writing and running portable regression tests and benchmarks for HPC systems. ([Source Code](https://github.com/reframe-hpc/reframe) ⭐ 283 | 🐛 139 | 🌐 Python | 📅 2026-09-01) `BSD-3`.
+* [Coldfront](https://coldfront.readthedocs.io/en/latest/) - ColdFront is an open source resource allocation system designed to provide a central portal for administration, reporting, and measuring scientific impact of HPC resources ([Source Code](https://github.com/ubccr/coldfront) ⭐ 161 | 🐛 111 | 🌐 Python | 📅 2026-09-11) `GPL-3`.
+* [Open XDMod](https://open.xdmod.org) - Open XDMoD is an open source tool to facilitate the management of high performance computing resources ([Source Code](https://github.com/ubccr/xdmod/) ⭐ 105 | 🐛 31 | 🌐 PHP | 📅 2026-09-09) `LGPL-3`.
 * [GoSlmailer](https://github.com/CLIP-HPC/goslmailer) ⭐ 49 | 🐛 6 | 🌐 Go | 📅 2024-10-01 - Goslmailer is a drop-in notification delivery solution for slurm that can do slack, mattermost, teams, and more.
 * [Pavilion2](https://pavilion2.readthedocs.io/) - Pavilion is a Python 3 (3.6+) based framework for running and analyzing tests targeting HPC systems ([Source Code](https://github.com/hpc/pavilion2) ⭐ 46 | 🐛 237 | 🌐 Python | 📅 2026-09-10) `other`.
 * [OLCF Test Harness](https://olcf.github.io/olcf-test-harness/) - The OLCF Test Harness (OTH) helps automate the testing of applications, tools, and other system software ([Source Code](https://github.com/olcf/olcf-test-harness) ⭐ 14 | 🐛 42 | 🌐 Python | 📅 2026-09-10) `other`.
@@ -130,8 +130,8 @@ High Performance Computing tools and resources for engineers and administrators.
 
 ## Containers
 
-* [Apptainer](https://apptainer.org) - Apptainer is an open source container system ([Source Code](https://github.com/apptainer/apptainer) ⭐ 1,962 | 🐛 208 | 🌐 Go | 📅 2026-09-11) `BSD`.
-* [uDocker](https://indigo-dc.github.io/udocker/) - A basic user tool to execute simple docker containers in batch or interactive systems without root privileges ([Source Code](https://github.com/indigo-dc/udocker) ⭐ 1,786 | 🐛 40 | 🌐 Python | 📅 2025-08-13) `Apache-2.0`.
+* [Apptainer](https://apptainer.org) - Apptainer is an open source container system ([Source Code](https://github.com/apptainer/apptainer) ⭐ 1,964 | 🐛 200 | 🌐 Go | 📅 2026-09-11) `BSD`.
+* [uDocker](https://indigo-dc.github.io/udocker/) - A basic user tool to execute simple docker containers in batch or interactive systems without root privileges ([Source Code](https://github.com/indigo-dc/udocker) ⭐ 1,787 | 🐛 40 | 🌐 Python | 📅 2025-08-13) `Apache-2.0`.
 * [HPC Container Maker](https://github.com/NVIDIA/hpc-container-maker) ⭐ 517 | 🐛 10 | 🌐 Python | 📅 2026-08-31 - HPC Container Maker is an open source tool to make it easier to generate container specification files. `Apache-2.0`.
 * [Shifter](https://www.nersc.gov/research-and-development/user-defined-images/) -  Shifter is Linux containers for HPC ([Source Code](https://github.com/NERSC/shifter) ⭐ 364 | 🐛 10 | 🌐 C | 📅 2026-08-18) `other`.
 * [Charliecloud](https://hpc.github.io/charliecloud/) - Charliecloud provides user-defined software stacks (UDSS) for high-performance computing (HPC) centers ([Source Code](https://github.com/hpc/charliecloud) ⚠️ Archived) `Apache-2.0`.
@@ -141,19 +141,19 @@ High Performance Computing tools and resources for engineers and administrators.
 
 ## Environment Management
 
-* [Mamba](https://mamba.readthedocs.io/en/latest/) - Mamba is a reimplementation of the conda package manager in C++ ([Source Code](https://github.com/mamba-org/mamba) ⭐ 8,091 | 🐛 461 | 🌐 C++ | 📅 2026-09-11) `BSD`.
-* [Environment Modules](https://modules.readthedocs.io/en/latest/) - Environment Modules: provides dynamic modification of a user's environment  ([Source Code](https://github.com/cea-hpc/modules) ⭐ 864 | 🐛 28 | 🌐 Tcl | 📅 2026-09-09) `GPL-2`.
+* [Mamba](https://mamba.readthedocs.io/en/latest/) - Mamba is a reimplementation of the conda package manager in C++ ([Source Code](https://github.com/mamba-org/mamba) ⭐ 8,092 | 🐛 461 | 🌐 C++ | 📅 2026-09-11) `BSD`.
+* [Environment Modules](https://modules.readthedocs.io/en/latest/) - Environment Modules: provides dynamic modification of a user's environment  ([Source Code](https://github.com/cea-hpc/modules) ⭐ 865 | 🐛 28 | 🌐 Tcl | 📅 2026-09-09) `GPL-2`.
 * [Lmod](https://lmod.readthedocs.io/en/latest/) - Lmod: An Environment Module System based on Lua, Reads TCL Modules, Supports a Software Hierarchy ([Source Code](https://github.com/TACC/Lmod) ⭐ 609 | 🐛 27 | 🌐 Lua | 📅 2026-09-09) `other`.
 * [Anaconda](https://www.anaconda.com/) - Anaconda is a Python and R distribution for use in computational science `other`.
 
 ## Visualization
 
-* [Paraview](https://www.paraview.org/) - ParaView is an open-source, multi-platform data analysis and visualization application based on Visualization Toolkit (VTK) ([Source Code](https://github.com/Kitware/ParaView) ⭐ 1,695 | 🐛 8 | 🌐 C++ | 📅 2026-09-11) `BSD-3`.
+* [Paraview](https://www.paraview.org/) - ParaView is an open-source, multi-platform data analysis and visualization application based on Visualization Toolkit (VTK) ([Source Code](https://github.com/Kitware/ParaView) ⭐ 1,696 | 🐛 8 | 🌐 C++ | 📅 2026-09-12) `BSD-3`.
 * [Visit](https://visit-dav.github.io/visit-website/) - VisIt - Visualization and Data Analysis for Mesh-based Scientific Data ([Source Code](https://github.com/visit-dav/visit) ⭐ 532 | 🐛 1,942 | 🌐 C | 📅 2026-09-11) `BSD-3`.
 
 ## Parallel Filesystems
 
-* [Ceph](https://ceph.io/en/) - Ceph is a distributed object, block, and file storage platform ([Source Code](https://github.com/ceph/ceph) ⭐ 17,026 | 🐛 1,361 | 🌐 C++ | 📅 2026-09-11) `other`.
+* [Ceph](https://ceph.io/en/) - Ceph is a distributed object, block, and file storage platform ([Source Code](https://github.com/ceph/ceph) ⭐ 17,028 | 🐛 1,358 | 🌐 C++ | 📅 2026-09-12) `other`.
 * [MooseFS](https://moosefs.com/) - Moose File System is an Open-source, POSIX-compliant distributed file system developed by Core Technology ([Source Code](https://github.com/moosefs/moosefs) ⭐ 2,001 | 🐛 192 | 🌐 C | 📅 2026-05-18) `GPL-2.0`.
 * [OrangeFS](http://www.orangefs.org/) - OrangeFS is a next generation parallel file system for Linux clusters ([Source Code](https://github.com/waltligon/orangefs) ⭐ 78 | 🐛 47 | 🌐 C | 📅 2026-07-15) `other`.
 * [GPFS](https://www.ibm.com/docs/en/gpfs/4.1.0.4?topic=guide-introducing-general-parallel-file-system) - GPFS is a high-performance clustered file system software developed by IBM `Proprietary`.
@@ -229,4 +229,4 @@ Contributing guidelines can be found in [contributing.md](contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
