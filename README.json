@@ -19,7 +19,7 @@
             "open_issues": 294,
             "owner": "cobbler",
             "repo": "cobbler",
-            "stars": 2776,
+            "stars": 2777,
             "topics": [
               "cobbler",
               "deployment",
@@ -141,11 +141,11 @@
             "id": 1924458,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-24T05:27:37Z",
+            "last_commit": "2026-10-25T05:22:02Z",
             "open_issues": 23,
             "owner": "SchedMD",
             "repo": "slurm",
-            "stars": 4469,
+            "stars": 4472,
             "topics": [
               "slurm",
               "slurm-job-scheduler",
@@ -304,7 +304,7 @@
             "open_issues": 1591,
             "owner": "spack",
             "repo": "spack",
-            "stars": 5149,
+            "stars": 5152,
             "topics": [
               "build-tools",
               "hpc",
@@ -370,7 +370,7 @@
             "open_issues": 374,
             "owner": "open-mpi",
             "repo": "ompi",
-            "stars": 2670,
+            "stars": 2671,
             "topics": [
               "c",
               "fortran",
@@ -394,8 +394,8 @@
             "id": 70918679,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T20:44:50Z",
-            "open_issues": 294,
+            "last_commit": "2026-10-25T02:34:48Z",
+            "open_issues": 295,
             "owner": "pmodels",
             "repo": "mpich",
             "stars": 690,
@@ -447,7 +447,7 @@
             "id": 275928343,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-23T16:53:53Z",
+            "last_commit": "2026-10-24T17:05:42Z",
             "open_issues": 8,
             "owner": "breuner",
             "repo": "elbencho",
@@ -493,7 +493,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-06T21:34:32Z",
-            "open_issues": 132,
+            "open_issues": 133,
             "owner": "reframe-hpc",
             "repo": "reframe",
             "stars": 286,
@@ -705,10 +705,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-10-24T13:07:02Z",
-            "open_issues": 201,
+            "open_issues": 202,
             "owner": "apptainer",
             "repo": "apptainer",
-            "stars": 2003,
+            "stars": 2004,
             "topics": [
               "apptainer",
               "containers",
@@ -776,7 +776,7 @@
             "open_issues": 12,
             "owner": "NVIDIA",
             "repo": "hpc-container-maker",
-            "stars": 519,
+            "stars": 518,
             "topics": [
               "containers",
               "docker",
@@ -995,11 +995,11 @@
             "id": 639921,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-24T04:03:21Z",
+            "last_commit": "2026-10-25T04:03:17Z",
             "open_issues": 8,
             "owner": "Kitware",
             "repo": "ParaView",
-            "stars": 1714,
+            "stars": 1715,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:32.296Z"
@@ -1052,11 +1052,11 @@
             "id": 2310495,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-24T11:15:50Z",
-            "open_issues": 1812,
+            "last_commit": "2026-10-25T09:09:32Z",
+            "open_issues": 1832,
             "owner": "ceph",
             "repo": "ceph",
-            "stars": 17160,
+            "stars": 17164,
             "topics": [
               "block-storage",
               "cloud-storage",
@@ -1166,10 +1166,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-18T21:23:51Z",
-                "open_issues": 147,
+                "open_issues": 148,
                 "owner": "NVIDIA",
                 "repo": "dcgm-exporter",
-                "stars": 1913,
+                "stars": 1914,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:32.296Z"
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T14:08:48.011Z",
+    "last_updated": "2026-10-25T14:35:40.467Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Awesome HPC software and tools",
@@ -1348,7 +1348,7 @@
       "open_issues": 19,
       "owner": "dstdev",
       "repo": "awesome-hpc",
-      "stars": 280,
+      "stars": 281,
       "topics": [
         "awesome",
         "awesome-list"
