@@ -50,7 +50,7 @@ High Performance Computing tools and resources for engineers and administrators.
 
 ## Workload Managers
 
-* [Slurm](https://slurm.schedmd.com/documentation.html) - A free and open source job scheduler ([Source Code](https://github.com/SchedMD/slurm) ⭐ 4,518 | 🐛 27 | 🌐 C | 📅 2026-11-14) `OSS`.
+* [Slurm](https://slurm.schedmd.com/documentation.html) - A free and open source job scheduler ([Source Code](https://github.com/SchedMD/slurm) ⭐ 4,522 | 🐛 28 | 🌐 C | 📅 2026-11-14) `OSS`.
 * [Kube Batch](https://github.com/kubernetes-sigs/kube-batch) ⚠️ Archived - A batch scheduler of kubernetes for high performance workload, e.g. AI/ML, BigData, HPC `Apache-2.0`.
 * [OpenPBS](https://www.openpbs.org/) - OpenPBS® software optimizes job scheduling and workload management in high-performance computing (HPC) environments ([Source Code](https://github.com/openpbs/openpbs) ⭐ 807 | 🐛 117 | 🌐 C | 📅 2026-04-10) `other`.
 * [LSF](https://www.ibm.com/products/hpc-workload-management) - A job scheduler and workload management software developed by IBM `Proprietary`.
@@ -64,12 +64,12 @@ High Performance Computing tools and resources for engineers and administrators.
 ## Pipelines
 
 * [Cromwell](https://cromwell.readthedocs.io/en/stable/) - Scientific workflow engine designed for simplicity & scalability ([Source Code](https://github.com/broadinstitute/cromwell) ⭐ 1,084 | 🐛 818 | 🌐 Scala | 📅 2026-11-12) `BSD-3`.
-* [Pegasus](https://pegasus.isi.edu/) - A configurable system for mapping and executing scientific workflows over a wide range of computational infrastructure ([Source Code](https://github.com/pegasus-isi/pegasus) ⭐ 255 | 🐛 30 | 🌐 Java | 📅 2026-11-13)`Apache-2.0`.
+* [Pegasus](https://pegasus.isi.edu/) - A configurable system for mapping and executing scientific workflows over a wide range of computational infrastructure ([Source Code](https://github.com/pegasus-isi/pegasus) ⭐ 256 | 🐛 30 | 🌐 Java | 📅 2026-11-13)`Apache-2.0`.
 * [Nextflow](https://nextflow.io) - Data drive computational pipelines `Apache-2.0`.
 
 ## Applications
 
-* [Spack](https://spack.io) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers ([Source Code](https://github.com/spack/spack) ⭐ 5,172 | 🐛 1,192 | 🌐 Python | 📅 2026-11-13) `other`.
+* [Spack](https://spack.io) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers ([Source Code](https://github.com/spack/spack) ⭐ 5,172 | 🐛 1,193 | 🌐 Python | 📅 2026-11-13) `other`.
 * [EasyBuild](https://easybuild.io/) -  EasyBuild - building software with ease ([Source Code](https://github.com/easybuilders/easybuild) ⭐ 520 | 🐛 118 | 🌐 Shell | 📅 2026-10-30) `GPL-2`.
 
 ## Compilers
@@ -79,12 +79,12 @@ High Performance Computing tools and resources for engineers and administrators.
 * [Intel](https://software.intel.com/content/www/us/en/develop/tools/oneapi/all-toolkits.html#hpc-kit) - The Intel compiler suite offers many language compilers for use in the HPC space `Proprietary`.
 * [Cray](https://bluewaters.ncsa.illinois.edu/cray-compiler) - A suite of compilers designed and optimized to target the AMD interlagos instruction set `Proprietary`.
 * [GNU](https://gcc.gnu.org/) - The GNU Compiler Collection is a suite of compilers targeting many languages ([Source Code](https://gcc.gnu.org/git.html)) `GPL-3`.
-* [LLVM](https://llvm.org/) - The LLVM project is a collection of modular compilers and toolchains ([Source Code](https://github.com/llvm/llvm-project) ⭐ 41,437 | 🐛 42,566 | 🌐 LLVM | 📅 2026-11-14) `OSS`.
+* [LLVM](https://llvm.org/) - The LLVM project is a collection of modular compilers and toolchains ([Source Code](https://github.com/llvm/llvm-project) ⭐ 41,450 | 🐛 42,627 | 🌐 LLVM | 📅 2026-11-15) `OSS`.
 
 ## MPI
 
 * [OpenMPI](https://www.open-mpi.org/) - OpenMPI is an open source implementation of the MPI-3.1 standard ([Source Code](https://github.com/open-mpi/ompi) ⭐ 2,678 | 🐛 390 | 🌐 C | 📅 2026-11-13) `BSD`.
-* [MPICH](https://www.mpich.org/) - MPICH is a high-performance and widely portable implementation of the MPI-3.1 standard ([Source Code](https://github.com/pmodels/mpich) ⭐ 694 | 🐛 299 | 🌐 C | 📅 2026-11-14) `other`.
+* [MPICH](https://www.mpich.org/) - MPICH is a high-performance and widely portable implementation of the MPI-3.1 standard ([Source Code](https://github.com/pmodels/mpich) ⭐ 694 | 🐛 297 | 🌐 C | 📅 2026-11-15) `other`.
 * [MVAPICH](https://mvapich.cse.ohio-state.edu/) - MVAPICH is an open source implementation of the MPI-3.1 standard developed by Ohio State University `BSD`.
 * [Intel-MPI](https://www.intel.com/content/www/us/en/developer/tools/oneapi/mpi-library.html) - Intel-MPI is Intel's MPI-3.1 implementation included in their compiler suite `other`.
 
@@ -96,7 +96,7 @@ High Performance Computing tools and resources for engineers and administrators.
 ## Benchmarking
 
 * [HPCC Systems](https://hpccsystems.com/) - HPCC Systems (High Performance Computing Cluster) is an open source, massive parallel-processing computing platform for big data processing and analytics ([Source Code](https://github.com/hpcc-systems/HPCC-Platform) ⭐ 619 | 🐛 481 | 🌐 C++ | 📅 2026-11-13) `other`.
-* [elbencho](https://github.com/breuner/elbencho) ⭐ 301 | 🐛 9 | 🌐 C++ | 📅 2026-11-13 - A distributed storage benchmark for files, objects & blocks with support for GPUs `GPL-3`.
+* [elbencho](https://github.com/breuner/elbencho) ⭐ 301 | 🐛 9 | 🌐 C++ | 📅 2026-11-15 - A distributed storage benchmark for files, objects & blocks with support for GPUs `GPL-3`.
 * [OSU Benchmarks](https://mvapich.cse.ohio-state.edu/benchmarks/) - A collection of benchmarking tools for MPI developed by Ohio State University `other`.
 * [Intel MPI Benchmarks](https://software.intel.com/content/www/us/en/develop/articles/intel-mpi-benchmarks.html) - A set of benchmarks developed by Intel for use with their Intel MPI `other`.
 * [LINPACK](https://www.netlib.org/linpack/) - LINPACK is a set of efficient fortran subroutines for solving linear systems which benchmarks are useful for HPC `other`.
@@ -125,13 +125,13 @@ High Performance Computing tools and resources for engineers and administrators.
 
 ## Parallel Shells
 
-* [pdsh](https://linux.die.net/man/1/pdsh) - pdsh runs terminal commands across multiple hosts in parallel ([Source Code](https://github.com/chaos/pdsh) ⭐ 574 | 🐛 44 | 🌐 C | 📅 2026-01-12) `GPL-2`.
+* [pdsh](https://linux.die.net/man/1/pdsh) - pdsh runs terminal commands across multiple hosts in parallel ([Source Code](https://github.com/chaos/pdsh) ⭐ 575 | 🐛 44 | 🌐 C | 📅 2026-01-12) `GPL-2`.
 * [ClusterShell](https://clustershell.readthedocs.io/en/latest/intro.html) - Scalable cluster administration Python framework ([Source Code](https://github.com/cea-hpc/clustershell) ⭐ 482 | 🐛 115 | 🌐 Python | 📅 2026-11-09) `LGPL-2.1` .
 
 ## Containers
 
-* [Apptainer](https://apptainer.org) - Apptainer is an open source container system ([Source Code](https://github.com/apptainer/apptainer) ⭐ 2,022 | 🐛 198 | 🌐 Go | 📅 2026-11-14) `BSD`.
-* [uDocker](https://indigo-dc.github.io/udocker/) - A basic user tool to execute simple docker containers in batch or interactive systems without root privileges ([Source Code](https://github.com/indigo-dc/udocker) ⭐ 1,809 | 🐛 42 | 🌐 Python | 📅 2025-08-13) `Apache-2.0`.
+* [Apptainer](https://apptainer.org) - Apptainer is an open source container system ([Source Code](https://github.com/apptainer/apptainer) ⭐ 2,021 | 🐛 199 | 🌐 Go | 📅 2026-11-14) `BSD`.
+* [uDocker](https://indigo-dc.github.io/udocker/) - A basic user tool to execute simple docker containers in batch or interactive systems without root privileges ([Source Code](https://github.com/indigo-dc/udocker) ⭐ 1,809 | 🐛 43 | 🌐 Python | 📅 2025-08-13) `Apache-2.0`.
 * [HPC Container Maker](https://github.com/NVIDIA/hpc-container-maker) ⭐ 518 | 🐛 12 | 🌐 Python | 📅 2026-10-21 - HPC Container Maker is an open source tool to make it easier to generate container specification files. `Apache-2.0`.
 * [Shifter](https://www.nersc.gov/research-and-development/user-defined-images/) -  Shifter is Linux containers for HPC ([Source Code](https://github.com/NERSC/shifter) ⭐ 365 | 🐛 13 | 🌐 C | 📅 2026-11-03) `other`.
 * [Charliecloud](https://hpc.github.io/charliecloud/) - Charliecloud provides user-defined software stacks (UDSS) for high-performance computing (HPC) centers ([Source Code](https://github.com/hpc/charliecloud) ⚠️ Archived) `Apache-2.0`.
@@ -142,18 +142,18 @@ High Performance Computing tools and resources for engineers and administrators.
 ## Environment Management
 
 * [Mamba](https://mamba.readthedocs.io/en/latest/) - Mamba is a reimplementation of the conda package manager in C++ ([Source Code](https://github.com/mamba-org/mamba) ⭐ 8,117 | 🐛 444 | 🌐 C++ | 📅 2026-11-12) `BSD`.
-* [Environment Modules](https://modules.readthedocs.io/en/latest/) - Environment Modules: provides dynamic modification of a user's environment  ([Source Code](https://github.com/cea-hpc/modules) ⭐ 873 | 🐛 35 | 🌐 Tcl | 📅 2026-11-12) `GPL-2`.
+* [Environment Modules](https://modules.readthedocs.io/en/latest/) - Environment Modules: provides dynamic modification of a user's environment  ([Source Code](https://github.com/cea-hpc/modules) ⭐ 874 | 🐛 35 | 🌐 Tcl | 📅 2026-11-12) `GPL-2`.
 * [Lmod](https://lmod.readthedocs.io/en/latest/) - Lmod: An Environment Module System based on Lua, Reads TCL Modules, Supports a Software Hierarchy ([Source Code](https://github.com/TACC/Lmod) ⭐ 619 | 🐛 28 | 🌐 Lua | 📅 2026-10-31) `other`.
 * [Anaconda](https://www.anaconda.com/) - Anaconda is a Python and R distribution for use in computational science `other`.
 
 ## Visualization
 
-* [Paraview](https://www.paraview.org/) - ParaView is an open-source, multi-platform data analysis and visualization application based on Visualization Toolkit (VTK) ([Source Code](https://github.com/Kitware/ParaView) ⭐ 1,730 | 🐛 8 | 🌐 C++ | 📅 2026-11-14) `BSD-3`.
+* [Paraview](https://www.paraview.org/) - ParaView is an open-source, multi-platform data analysis and visualization application based on Visualization Toolkit (VTK) ([Source Code](https://github.com/Kitware/ParaView) ⭐ 1,730 | 🐛 8 | 🌐 C++ | 📅 2026-11-15) `BSD-3`.
 * [Visit](https://visit-dav.github.io/visit-website/) - VisIt - Visualization and Data Analysis for Mesh-based Scientific Data ([Source Code](https://github.com/visit-dav/visit) ⭐ 540 | 🐛 1,943 | 🌐 C | 📅 2026-11-14) `BSD-3`.
 
 ## Parallel Filesystems
 
-* [Ceph](https://ceph.io/en/) - Ceph is a distributed object, block, and file storage platform ([Source Code](https://github.com/ceph/ceph) ⭐ 17,224 | 🐛 2,007 | 🌐 C++ | 📅 2026-11-14) `other`.
+* [Ceph](https://ceph.io/en/) - Ceph is a distributed object, block, and file storage platform ([Source Code](https://github.com/ceph/ceph) ⭐ 17,231 | 🐛 2,019 | 🌐 C++ | 📅 2026-11-15) `other`.
 * [MooseFS](https://moosefs.com/) - Moose File System is an Open-source, POSIX-compliant distributed file system developed by Core Technology ([Source Code](https://github.com/moosefs/moosefs) ⭐ 2,011 | 🐛 195 | 🌐 C | 📅 2026-05-18) `GPL-2.0`.
 * [OrangeFS](http://www.orangefs.org/) - OrangeFS is a next generation parallel file system for Linux clusters ([Source Code](https://github.com/waltligon/orangefs) ⭐ 79 | 🐛 47 | 🌐 C | 📅 2026-11-02) `other`.
 * [GPFS](https://www.ibm.com/docs/en/gpfs/4.1.0.4?topic=guide-introducing-general-parallel-file-system) - GPFS is a high-performance clustered file system software developed by IBM `Proprietary`.
@@ -172,7 +172,7 @@ High Performance Computing tools and resources for engineers and administrators.
 
 ### Prometheus Based
 
-* [DCGM Exporter](https://github.com/NVIDIA/dcgm-exporter) ⭐ 1,930 | 🐛 117 | 🌐 Go | 📅 2026-11-06 - NVIDIA GPU metrics exporter for Prometheus leveraging DCGM `Apache-2.0`.
+* [DCGM Exporter](https://github.com/NVIDIA/dcgm-exporter) ⭐ 1,930 | 🐛 119 | 🌐 Go | 📅 2026-11-06 - NVIDIA GPU metrics exporter for Prometheus leveraging DCGM `Apache-2.0`.
 * [Infiniband Exporter](https://github.com/treydock/infiniband_exporter) ⭐ 80 | 🐛 3 | 🌐 Go | 📅 2026-08-07 - The InfiniBand exporter collects counters from InfiniBand switches and HCAs `Apache-2.0`.
 * [GPFS Exporter](https://github.com/treydock/gpfs_exporter) ⭐ 60 | 🐛 4 | 🌐 Go | 📅 2026-07-06 - The GPFS exporter collects metrics from the GPFS filesystem `Apache-2.0`.
 * [Cgroup Exporter](https://github.com/treydock/cgroup_exporter) ⭐ 30 | 🐛 5 | 🌐 Go | 📅 2026-08-27 - Produces metrics from cgroups `Apache-2.0`.
@@ -229,4 +229,4 @@ Contributing guidelines can be found in [contributing.md](contributing.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
